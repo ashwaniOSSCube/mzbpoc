@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pimcore/!svn/ver/2741/private/core/trunk/tests/lib/PHPUnit
+END
+Autoload.php.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Autoload.php.in
+END
+Autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Autoload.php
+END

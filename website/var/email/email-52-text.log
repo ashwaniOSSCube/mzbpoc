@@ -1,0 +1,15 @@
+Dear Customer, thank you for your order. Please bare in mind, that this is
+a demo system so no actual order has been created.  email.contact-data
+user.firstname eeret user.lastname wertertret user.email test@test.at
+email.cart cart cart.productnamecheckout.cart.productno cart.unitprice
+cart.quantity cart.totalprice Hula wmsarticleno: 10443 45.95 1 45.95
+cart.subtotal â¬Â 45,95 shop.cart.modificationshipping
+â¬Â 55,90 cart.grandtotal â¬Â 101,85 checkout.order-information
+checkout.delivery-address eeret wertertret etetret 3453 gdgsdfg
+checkout.your-ordernumber ord_55018c3fecd77 © 2013 pimcore GmbH,
+www.pimcore.org
+  
+Debug Information:  
+  
+To: test@test.at ()
+Cc: thomas.ballmann@elements.at ()

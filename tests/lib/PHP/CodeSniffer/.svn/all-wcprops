@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer
+END
+Reporting.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Reporting.php
+END
+Report.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Report.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Exception.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/File.php
+END
+MultiFileSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/MultiFileSniff.php
+END
+Tokens.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Tokens.php
+END
+Sniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Sniff.php
+END
+CLI.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/CLI.php
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Metrics/CyclomaticComplexity
+END
+Analyzer.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Metrics/CyclomaticComplexity/Analyzer.php
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/VersionControl
+END
+SubversionPropertiesSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/VersionControl/SubversionPropertiesSniff.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Strings
+END
+ConcatenationSpacingSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Strings/ConcatenationSpacingSniff.php
+END
+DoubleQuoteUsageSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Strings/DoubleQuoteUsageSniff.php
+END
+EchoedStringsSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Strings/EchoedStringsSniff.php
+END

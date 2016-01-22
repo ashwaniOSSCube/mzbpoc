@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<zend-config xmlns:zf="http://framework.zend.com/xml/zend-config-xml/1.0/">
+  <generalTool>pdfreactor</generalTool>
+  <pdfreactorServer>localhost</pdfreactorServer>
+  <pdfreactorHostname>http://demo.pim.elements.pm</pdfreactorHostname>
+  <pdfreactorVersion>6.3</pdfreactorVersion>
+  <pdfreactorLicence>&lt;license&gt;&lt;licensee&gt;&lt;name&gt;pimcore GmbH&lt;/name&gt;&lt;/licensee&gt;&lt;product&gt;PDFreactor&lt;/product&gt;&lt;majorversion&gt;6&lt;/majorversion&gt;&lt;minorversion&gt;0&lt;/minorversion&gt;&lt;licensetype&gt;Evaluation&lt;/licensetype&gt;&lt;expirationdate&gt;2014-10-17&lt;/expirationdate&gt;&lt;signatureinformation&gt;&lt;signdate&gt;2013-10-18 15:29&lt;/signdate&gt;&lt;signature&gt;302c02142bb855cf858224ce01a6b49bbb034ff3891d282402146a0350804dc0c42fe4291cc9298342ad039717c8&lt;/signature&gt;&lt;checksum&gt;1263&lt;/checksum&gt;&lt;/signatureinformation&gt;&lt;/license&gt;</pdfreactorLicence>
+  <wkhtmltopdfBin/>
+  <wkhtml2pdfOptions/>
+  <wkhtml2pdfHostname/>
+  <generalDocumentSaveMode>cleanup</generalDocumentSaveMode>
+</zend-config>

@@ -1,0 +1,15 @@
+hallo das ist eine nachricht fÃ¼r die besteller email.contact-data
+Firstname Thomas Lastname Ballmann E-Mail thomas.ballmann@elements.at
+email.cart cart Productnamecheckout.cart.productno Price Quantity Total
+Hula wmsarticleno: 10443 45.95 1 45.95 Merriwa short wmsarticleno: 10097
+49.95 1 49.95 Morgan menarticleno: 10113 59.95 1 59.95 Subtotal Â£155.85
+shop.cart.modificationshipping Â£0.00 shop.cart.modificationtest2
+-Â£15.59 Grandtotal Â£140.27 checkout.order-information
+checkout.delivery-address Thomas Ballmann Heideweg 83395 Freilassing
+Germany checkout.your-ordernumber ord_51fa47c09c4b0 checkout.order-comment
+© 2013 elements.at New Media Solutions GmbH, www.pimcore.org
+  
+Debug Information:  
+  
+To: thomas.ballmann@elements.at
+Cc: thomas.ballmann@elements.at

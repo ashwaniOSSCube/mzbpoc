@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Runner
+END
+TestSuiteLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Runner/TestSuiteLoader.php
+END
+StandardTestSuiteLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Runner/StandardTestSuiteLoader.php
+END
+BaseTestRunner.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Runner/BaseTestRunner.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Runner/Version.php
+END

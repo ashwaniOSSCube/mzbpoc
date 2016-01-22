@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Renderer
+END
+HTMLRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Renderer/HTMLRenderer.php
+END
+TextRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Renderer/TextRenderer.php
+END
+XMLRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Renderer/XMLRenderer.php
+END

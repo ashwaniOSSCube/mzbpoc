@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Strings
+END
+UnnecessaryStringConcatSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Strings/UnnecessaryStringConcatSniff.php
+END

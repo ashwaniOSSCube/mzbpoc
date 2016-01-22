@@ -1,0 +1,15 @@
+hallo das ist eine nachricht fÃ¼r die besteller email.contact-data
+Firstname Thomas Lastname Ballmann E-Mail thomas.ballmann@elements.at
+email.cart cart Productnamecheckout.cart.productno Price Quantity Total
+Arium 1articleno: 9153 99.95 1 99.95 Barrow 60articleno: 10494 69.95 1
+69.95 Subtotal Â£169.90 shop.cart.modificationshipping Â£0.00
+shop.cart.modificationtest2 -Â£16.99 Grandtotal Â£152.91
+checkout.order-information checkout.delivery-address Thomas Ballmann
+Heideweg 83395 Freilassing Germany checkout.your-ordernumber
+ord_51fa4bbd1c904 checkout.order-comment © 2013 elements.at New Media
+Solutions GmbH, www.pimcore.org
+  
+Debug Information:  
+  
+To: thomas.ballmann@elements.at
+Cc: thomas.ballmann@elements.at

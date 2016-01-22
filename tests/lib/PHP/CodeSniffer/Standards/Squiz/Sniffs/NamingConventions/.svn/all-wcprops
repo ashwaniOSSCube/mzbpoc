@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/NamingConventions
+END
+ConstantCaseSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/NamingConventions/ConstantCaseSniff.php
+END
+ValidFunctionNameSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/NamingConventions/ValidFunctionNameSniff.php
+END
+ValidVariableNameSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/NamingConventions/ValidVariableNameSniff.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Objects
+END
+DisallowObjectStringIndexSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Objects/DisallowObjectStringIndexSniff.php
+END
+ObjectInstantiationSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Objects/ObjectInstantiationSniff.php
+END
+ObjectMemberCommaSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Objects/ObjectMemberCommaSniff.php
+END

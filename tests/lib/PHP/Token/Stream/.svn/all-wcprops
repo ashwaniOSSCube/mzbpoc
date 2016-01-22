@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Token/Stream
+END
+CachingFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Token/Stream/CachingFactory.php
+END
+Autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Token/Stream/Autoload.php
+END

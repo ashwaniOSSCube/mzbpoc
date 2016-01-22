@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<zend-config xmlns:zf="http://framework.zend.com/xml/zend-config-xml/1.0/">
+    <tenant>
+
+        <!-- add columns for general fulltext search index of productlist - they must be part of the column configuration below -->
+        <generalSearchColumns>
+            <column name="name"/>
+            <column name="seoname"/>
+            <column name="color"/>
+        </generalSearchColumns>
+
+        <!-- column definition for product index -->
+        <columns>
+            <!-- additional columns for mockups -->
+            <column name="description" type="text" locale="en_GB" filtergroup="string"/>
+            <column name="firstImageAsset" interpreter="OnlineShop_Framework_IndexService_Interpreter_DefaultRelations"/>
+            <column name="firstCategory" interpreter="OnlineShop_Framework_IndexService_Interpreter_DefaultRelations"/>
+            <column name="linkProduct" interpreter="OnlineShop_Framework_IndexService_Interpreter_DefaultRelations"/>
+           <!-- <column name="colorVariants" interpreter="OnlineShop_Framework_IndexService_Interpreter_DefaultRelations"/>-->
+
+
+            <column name="name" type="varchar(255)" locale="en_GB" filtergroup="string"/>
+            <column name="seoname" type="varchar(255)" filtergroup="string"/>
+            <column name="color" type="varchar(255)" filtergroup="multiselect"/>
+            <column name="gender" type="varchar(100)" filtergroup="multiselect"/>
+            <column name="features" interpreter="OnlineShop_Framework_IndexService_Interpreter_DefaultObjects"
+                    filtergroup="relation"/>
+            <column name="technologies" interpreter="OnlineShop_Framework_IndexService_Interpreter_DefaultObjects"
+                    filtergroup="relation"/>
+
+
+            <column name="tentTentPegs" type="varchar(50)"
+                    getter="OnlineShop_Framework_IndexService_Getter_DefaultBrickGetter" filtergroup="string">
+                <config brickfield="specificAttributes" bricktype="tentSpecifications" fieldname="tentPegs"/>
+            </column>
+            <column name="tentWaterproofRain" type="varchar(50)"
+                    getter="OnlineShop_Framework_IndexService_Getter_DefaultBrickGetter" filtergroup="string">
+                <config brickfield="specificAttributes" bricktype="tentSpecifications" fieldname="waterproofRain"/>
+            </column>
+            <column name="tentWaterproofGround" type="varchar(50)"
+                    getter="OnlineShop_Framework_IndexService_Getter_DefaultBrickGetter" filtergroup="string">
+                <config brickfield="specificAttributes" bricktype="tentSpecifications" fieldname="waterproofGround"/>
+            </column>
+
+
+            <column name="rucksacksVolume" type="double"
+                    interpreter="OnlineShop_Framework_IndexService_Interpreter_Numeric"
+                    getter="OnlineShop_Framework_IndexService_Getter_DefaultBrickGetter" filtergroup="string">
+                <config brickfield="specificAttributes" bricktype="rucksackSpecs" fieldname="volume"/>
+            </column>
+            <column name="rucksacksWeight" type="double"
+                    interpreter="OnlineShop_Framework_IndexService_Interpreter_Numeric"
+                    getter="OnlineShop_Framework_IndexService_Getter_DefaultBrickGetter" filtergroup="string">
+                <config brickfield="specificAttributes" bricktype="rucksackSpecs" fieldname="weight"/>
+            </column>
+            <column name="rucksacksLoad" type="double"
+                    interpreter="OnlineShop_Framework_IndexService_Interpreter_Numeric"
+                    getter="OnlineShop_Framework_IndexService_Getter_DefaultBrickGetter" filtergroup="string">
+                <config brickfield="specificAttributes" bricktype="rucksackSpecs" fieldname="load"/>
+            </column>
+
+
+            <column name="matsWidth" type="double"
+                    getter="OnlineShop_Framework_IndexService_Getter_DefaultBrickGetter" filtergroup="string">
+                <config brickfield="specificAttributes" bricktype="matsSpecs" fieldname="width"/>
+            </column>
+            <column name="matsLength" type="double"
+                    getter="OnlineShop_Framework_IndexService_Getter_DefaultBrickGetter" filtergroup="string">
+                <config brickfield="specificAttributes" bricktype="matsSpecs" fieldname="length"/>
+            </column>
+            <column name="matsHeight" type="double"
+                    getter="OnlineShop_Framework_IndexService_Getter_DefaultBrickGetter" filtergroup="string">
+                <config brickfield="specificAttributes" bricktype="matsSpecs" fieldname="height"/>
+            </column>
+
+
+            <column name="simularity_color" fieldname="color" hideInFieldlistDatatype="true" type="INTEGER"
+                    interpreter="OnlineShop_Framework_IndexService_Interpreter_Soundex"/>
+            <column name="simularity_gender" fieldname="gender" hideInFieldlistDatatype="true" type="INTEGER"
+                    interpreter="OnlineShop_Framework_IndexService_Interpreter_Soundex"/>
+            <column name="simularity_category" fieldname="categories" hideInFieldlistDatatype="true" type="INTEGER"
+                    interpreter="OnlineShop_Framework_IndexService_Interpreter_ObjectIdSum"/>
+            <column name="simularity_feature" fieldname="features" hideInFieldlistDatatype="true" type="INTEGER"
+                    interpreter="OnlineShop_Framework_IndexService_Interpreter_ObjectIdSum"/>
+            <column name="simularity_technolgy" fieldname="technologies" hideInFieldlistDatatype="true" type="INTEGER"
+                    interpreter="OnlineShop_Framework_IndexService_Interpreter_ObjectIdSum"/>
+            <column name="simularity_attributes" fieldname="attributes" hideInFieldlistDatatype="true" type="INTEGER"
+                    interpreter="OnlineShop_Framework_IndexService_Interpreter_ObjectIdSum"/>
+
+        </columns>
+
+    </tenant>
+</zend-config>

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/WhiteSpace
+END
+ControlStructureSpacingSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/WhiteSpace/ControlStructureSpacingSniff.php
+END
+SuperfluousWhitespaceSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/WhiteSpace/SuperfluousWhitespaceSniff.php
+END
+FunctionClosingBraceSpaceSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/WhiteSpace/FunctionClosingBraceSpaceSniff.php
+END
+FunctionOpeningBraceSpaceSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/WhiteSpace/FunctionOpeningBraceSpaceSniff.php
+END
+ScopeKeywordSpacingSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/WhiteSpace/ScopeKeywordSpacingSniff.php
+END
+ScopeClosingBraceSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/WhiteSpace/ScopeClosingBraceSniff.php
+END
+MemberVarSpacingSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/WhiteSpace/MemberVarSpacingSniff.php
+END
+ObjectOperatorSpacingSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/WhiteSpace/ObjectOperatorSpacingSniff.php
+END
+PropertyLabelSpacingSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/WhiteSpace/PropertyLabelSpacingSniff.php
+END
+FunctionSpacingSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/WhiteSpace/FunctionSpacingSniff.php
+END
+LogicalOperatorSpacingSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/WhiteSpace/LogicalOperatorSpacingSniff.php
+END
+SemicolonSpacingSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/WhiteSpace/SemicolonSpacingSniff.php
+END
+LanguageConstructSpacingSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/WhiteSpace/LanguageConstructSpacingSniff.php
+END
+CastSpacingSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/WhiteSpace/CastSpacingSniff.php
+END
+OperatorSpacingSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/WhiteSpace/OperatorSpacingSniff.php
+END

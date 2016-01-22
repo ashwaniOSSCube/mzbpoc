@@ -1,0 +1,15 @@
+hallo das ist eine nachricht fÃ¼r die besteller email.contact-data
+Firstname Thomas Lastname Ballmann E-Mail thomas.ballmann@elements.at
+email.cart cart Productnamecheckout.cart.productno Price Quantity Total
+Santiago Jr AQXarticleno: 7197 49.95 4 199.8 Hula wmsarticleno: 10443 45.95
+2 91.9 Subtotal Â£291.70 shop.cart.modificationshipping Â£0.00
+shop.cart.modificationtest2 -Â£29.17 Grandtotal Â£262.53
+checkout.order-information checkout.delivery-address Thomas Ballmann
+Heideweg 83395 Freilassing Germany checkout.your-ordernumber
+ord_51fa39ba0898a checkout.order-comment © 2013 elements.at New Media
+Solutions GmbH, www.pimcore.org
+  
+Debug Information:  
+  
+To: thomas.ballmann@elements.at
+Cc: thomas.ballmann@elements.at

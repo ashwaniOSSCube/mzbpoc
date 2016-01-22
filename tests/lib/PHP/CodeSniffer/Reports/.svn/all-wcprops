@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Reports
+END
+Csv.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Reports/Csv.php
+END
+Summary.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Reports/Summary.php
+END
+Checkstyle.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Reports/Checkstyle.php
+END
+Hgblame.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Reports/Hgblame.php
+END
+Source.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Reports/Source.php
+END
+Xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Reports/Xml.php
+END
+Full.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Reports/Full.php
+END
+Notifysend.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Reports/Notifysend.php
+END
+Gitblame.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Reports/Gitblame.php
+END
+VersionControl.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Reports/VersionControl.php
+END
+Svnblame.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Reports/Svnblame.php
+END
+Emacs.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Reports/Emacs.php
+END

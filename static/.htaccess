@@ -1,0 +1,8 @@
+# edit below with your data and edit the diaz symbols
+
+# <FilesMatch "pages-passprotected.html">
+# AuthName "Example of password protected page - use demo/demo for both username and password."
+# AuthType Basic
+# AuthUserFile /path/to/file/public_html/pwd/.htpasswd
+# require valid-user
+# </FilesMatch>

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/pimcore/!svn/ver/2537/private/core/trunk/tests/TestSuite/Rest
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/TestSuite/Rest/AllTests.php
+END
+DocumentTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pimcore/!svn/ver/2411/private/core/trunk/tests/TestSuite/Rest/DocumentTest.php
+END
+AssetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pimcore/!svn/ver/2537/private/core/trunk/tests/TestSuite/Rest/AssetTest.php
+END
+DataTypeTestIn.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pimcore/!svn/ver/2411/private/core/trunk/tests/TestSuite/Rest/DataTypeTestIn.php
+END
+DataTypeTestOut.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pimcore/!svn/ver/2411/private/core/trunk/tests/TestSuite/Rest/DataTypeTestOut.php
+END
+ClassTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pimcore/!svn/ver/2411/private/core/trunk/tests/TestSuite/Rest/ClassTest.php
+END
+ObjectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pimcore/!svn/ver/2497/private/core/trunk/tests/TestSuite/Rest/ObjectTest.php
+END

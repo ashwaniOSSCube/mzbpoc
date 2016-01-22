@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/PSR2/Sniffs/Namespaces
+END
+NamespaceDeclarationSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/PSR2/Sniffs/Namespaces/NamespaceDeclarationSniff.php
+END
+UseDeclarationSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/PSR2/Sniffs/Namespaces/UseDeclarationSniff.php
+END

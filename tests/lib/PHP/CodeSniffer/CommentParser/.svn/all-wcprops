@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/CommentParser
+END
+ParameterElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/CommentParser/ParameterElement.php
+END
+ParserException.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/CommentParser/ParserException.php
+END
+SingleElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/CommentParser/SingleElement.php
+END
+CommentElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/CommentParser/CommentElement.php
+END
+DocElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/CommentParser/DocElement.php
+END
+AbstractParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/CommentParser/AbstractParser.php
+END
+AbstractDocElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/CommentParser/AbstractDocElement.php
+END
+ClassCommentParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/CommentParser/ClassCommentParser.php
+END
+FunctionCommentParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/CommentParser/FunctionCommentParser.php
+END
+PairElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/CommentParser/PairElement.php
+END
+MemberCommentParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/CommentParser/MemberCommentParser.php
+END

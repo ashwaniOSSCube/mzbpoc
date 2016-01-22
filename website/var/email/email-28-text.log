@@ -1,0 +1,15 @@
+Dear Customer, thank you for your order. Please bare in mind, that this is
+a demo system so no actual order has been created.  Contact Data Firstname
+christian Lastname fasching E-Mail christian.fasching@elements.at Cart cart
+ProductnameProductnumber Price Quantity Total Chicago Stability
+Womenarticleno: 2168 811.35 2 1622.7 Subtotal Â£1,622.70
+shop.cart.modificationshipping Â£55.90
+shop.cart.modificationcart-discount -Â£162.27 Grandtotal Â£1,516.33
+Order Information Delivery address Thomas Ballmann Heideweg 83395
+Freilassing Germany Your Ordernumber ord_524ed2f2e77f4 © 2013 pimcore
+GmbH, www.pimcore.org
+  
+Debug Information:  
+  
+To: christian.fasching@elements.at
+Cc: thomas.ballmann@elements.at

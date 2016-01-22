@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Util
+END
+InvalidArgumentHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Util/InvalidArgumentHelper.php
+END
+XML.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Util/XML.php
+END
+GlobalState.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Util/GlobalState.php
+END
+Getopt.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Util/Getopt.php
+END
+TestSuiteIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Util/TestSuiteIterator.php
+END
+Class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Util/Class.php
+END
+Fileloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Util/Fileloader.php
+END
+String.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Util/String.php
+END
+Configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Util/Configuration.php
+END
+Diff.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Util/Diff.php
+END
+DeprecatedFeature.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Util/DeprecatedFeature.php
+END
+Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Util/Test.php
+END
+Type.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Util/Type.php
+END
+Printer.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Util/Printer.php
+END
+Filesystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Util/Filesystem.php
+END
+Filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Util/Filter.php
+END
+PHP.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Util/PHP.php
+END
+ErrorHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Util/ErrorHandler.php
+END

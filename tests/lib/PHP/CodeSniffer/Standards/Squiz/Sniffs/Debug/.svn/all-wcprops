@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Debug
+END
+JSLintSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Debug/JSLintSniff.php
+END
+JavaScriptLintSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Debug/JavaScriptLintSniff.php
+END

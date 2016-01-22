@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Scope
+END
+StaticThisUsageSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Scope/StaticThisUsageSniff.php
+END
+MemberVarScopeSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Scope/MemberVarScopeSniff.php
+END
+MethodScopeSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Scope/MethodScopeSniff.php
+END

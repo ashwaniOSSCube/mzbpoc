@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/CodeAnalysis
+END
+EmptyStatementSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/CodeAnalysis/EmptyStatementSniff.php
+END
+UnnecessaryFinalModifierSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/CodeAnalysis/UnnecessaryFinalModifierSniff.php
+END
+ForLoopShouldBeWhileLoopSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/CodeAnalysis/ForLoopShouldBeWhileLoopSniff.php
+END
+UnconditionalIfStatementSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/CodeAnalysis/UnconditionalIfStatementSniff.php
+END
+UnusedFunctionParameterSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/CodeAnalysis/UnusedFunctionParameterSniff.php
+END
+UselessOverridingMethodSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/CodeAnalysis/UselessOverridingMethodSniff.php
+END
+ForLoopWithTestFunctionCallSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/CodeAnalysis/ForLoopWithTestFunctionCallSniff.php
+END
+JumbledIncrementerSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/CodeAnalysis/JumbledIncrementerSniff.php
+END

@@ -1,0 +1,4 @@
+.rating_plugin_star {
+    background: url(/plugins/Rating/static/img/star.png) left center no-repeat !important;
+    padding: 0 0 0 20px !important;
+}

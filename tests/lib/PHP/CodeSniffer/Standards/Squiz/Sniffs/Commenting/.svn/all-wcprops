@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Commenting
+END
+EmptyCatchCommentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Commenting/EmptyCatchCommentSniff.php
+END
+ClosingDeclarationCommentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Commenting/ClosingDeclarationCommentSniff.php
+END
+DocCommentAlignmentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Commenting/DocCommentAlignmentSniff.php
+END
+ClassCommentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Commenting/ClassCommentSniff.php
+END
+FunctionCommentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Commenting/FunctionCommentSniff.php
+END
+FunctionCommentThrowTagSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Commenting/FunctionCommentThrowTagSniff.php
+END
+LongConditionClosingCommentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Commenting/LongConditionClosingCommentSniff.php
+END
+VariableCommentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Commenting/VariableCommentSniff.php
+END
+BlockCommentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Commenting/BlockCommentSniff.php
+END
+PostStatementCommentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Commenting/PostStatementCommentSniff.php
+END
+InlineCommentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Commenting/InlineCommentSniff.php
+END
+FileCommentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Commenting/FileCommentSniff.php
+END

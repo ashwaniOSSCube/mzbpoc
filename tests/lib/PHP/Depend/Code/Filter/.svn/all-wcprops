@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Code/Filter
+END
+Null.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Code/Filter/Null.php
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Code/Filter/Collection.php
+END
+Package.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Code/Filter/Package.php
+END

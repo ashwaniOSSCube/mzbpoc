@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/MySource/Sniffs/Strings
+END
+JoinStringsSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/MySource/Sniffs/Strings/JoinStringsSniff.php
+END

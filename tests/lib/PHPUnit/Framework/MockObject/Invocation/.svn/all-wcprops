@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Invocation
+END
+Object.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Invocation/Object.php
+END
+Static.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Invocation/Static.php
+END

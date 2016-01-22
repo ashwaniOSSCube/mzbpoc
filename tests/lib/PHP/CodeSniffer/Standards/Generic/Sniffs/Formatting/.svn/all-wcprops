@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Formatting
+END
+NoSpaceAfterCastSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Formatting/NoSpaceAfterCastSniff.php
+END
+SpaceAfterCastSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Formatting/SpaceAfterCastSniff.php
+END
+MultipleStatementAlignmentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Formatting/MultipleStatementAlignmentSniff.php
+END
+DisallowMultipleStatementsSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Formatting/DisallowMultipleStatementsSniff.php
+END

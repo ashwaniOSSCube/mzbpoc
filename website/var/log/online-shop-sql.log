@@ -1,0 +1,80 @@
+2016-01-20T14:36:16+01:00 INFO (6): User specific Condition Part: 
+2016-01-20T14:36:16+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1
+2016-01-20T14:36:16+01:00 INFO (6): Query: SELECT count(DISTINCT o_virtualProductId) FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 
+2016-01-20T14:36:16+01:00 INFO (6): Query done.
+2016-01-20T14:36:16+01:00 INFO (6): User specific Condition Part: 
+2016-01-20T14:36:16+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1
+2016-01-20T14:36:16+01:00 INFO (6): Query: SELECT SQL_CALC_FOUND_ROWS DISTINCT o_virtualProductId as o_id, priceSystemName FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 LIMIT 15
+2016-01-20T14:36:16+01:00 INFO (6): Query done.
+2016-01-20T14:50:59+01:00 INFO (6): User specific Condition Part: 
+2016-01-20T14:50:59+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1
+2016-01-20T14:50:59+01:00 INFO (6): Query: SELECT count(DISTINCT o_virtualProductId) FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 
+2016-01-20T14:50:59+01:00 INFO (6): Query done.
+2016-01-20T14:50:59+01:00 INFO (6): User specific Condition Part: 
+2016-01-20T14:50:59+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1
+2016-01-20T14:50:59+01:00 INFO (6): Query: SELECT SQL_CALC_FOUND_ROWS DISTINCT o_virtualProductId as o_id, priceSystemName FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 LIMIT 15
+2016-01-20T14:50:59+01:00 INFO (6): Query done.
+2016-01-20T17:13:48+01:00 INFO (6): User specific Condition Part: ((gender like '%#;#w#;#%' and gender like '%#;#g#;#%')) AND (parentCategoryIds LIKE '%,100,%')
+2016-01-20T17:13:48+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((gender like '%#;#w#;#%' and gender like '%#;#g#;#%')) AND (parentCategoryIds LIKE '%,100,%')
+2016-01-20T17:13:48+01:00 INFO (6): Query: SELECT count(DISTINCT o_virtualProductId) FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((gender like '%#;#w#;#%' and gender like '%#;#g#;#%')) AND (parentCategoryIds LIKE '%,100,%') 
+2016-01-20T17:13:48+01:00 INFO (6): Query done.
+2016-01-20T17:13:48+01:00 INFO (6): User specific Condition Part: ((gender like '%#;#w#;#%' and gender like '%#;#g#;#%')) AND (parentCategoryIds LIKE '%,100,%')
+2016-01-20T17:13:48+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((gender like '%#;#w#;#%' and gender like '%#;#g#;#%')) AND (parentCategoryIds LIKE '%,100,%')
+2016-01-20T17:13:48+01:00 INFO (6): Query: SELECT TRIM(`gender`) as `value`, count(DISTINCT o_virtualProductId) as `count` FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((gender like '%#;#w#;#%' and gender like '%#;#g#;#%')) AND (parentCategoryIds LIKE '%,100,%') GROUP BY TRIM(`gender`)
+2016-01-20T17:13:48+01:00 INFO (6): Query done.
+2016-01-20T17:13:48+01:00 INFO (6): User specific Condition Part: ((gender like '%#;#w#;#%' and gender like '%#;#g#;#%')) AND (parentCategoryIds LIKE '%,100,%')
+2016-01-20T17:13:48+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((gender like '%#;#w#;#%' and gender like '%#;#g#;#%')) AND (parentCategoryIds LIKE '%,100,%')
+2016-01-20T17:13:48+01:00 INFO (6): Query: SELECT SQL_CALC_FOUND_ROWS DISTINCT o_virtualProductId as o_id, priceSystemName FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((gender like '%#;#w#;#%' and gender like '%#;#g#;#%')) AND (parentCategoryIds LIKE '%,100,%') LIMIT 9
+2016-01-20T17:13:48+01:00 INFO (6): Query done.
+2016-01-20T17:20:23+01:00 INFO (6): User specific Condition Part: ((color like '%#;#silver#;#%')) AND (tentTentPegs IN ('Pegs steel')) AND (parentCategoryIds LIKE '%,6298,%')
+2016-01-20T17:20:23+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((color like '%#;#silver#;#%')) AND (tentTentPegs IN ('Pegs steel')) AND (parentCategoryIds LIKE '%,6298,%')
+2016-01-20T17:20:23+01:00 INFO (6): Query: SELECT count(DISTINCT o_virtualProductId) FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((color like '%#;#silver#;#%')) AND (tentTentPegs IN ('Pegs steel')) AND (parentCategoryIds LIKE '%,6298,%') 
+2016-01-20T17:20:23+01:00 INFO (6): Query done.
+2016-01-20T17:20:23+01:00 INFO (6): User specific Condition Part: (tentTentPegs IN ('Pegs steel')) AND (parentCategoryIds LIKE '%,6298,%')
+2016-01-20T17:20:23+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND (tentTentPegs IN ('Pegs steel')) AND (parentCategoryIds LIKE '%,6298,%')
+2016-01-20T17:20:23+01:00 INFO (6): Query: SELECT TRIM(`color`) as `value`, count(DISTINCT o_virtualProductId) as `count` FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND (tentTentPegs IN ('Pegs steel')) AND (parentCategoryIds LIKE '%,6298,%') GROUP BY TRIM(`color`)
+2016-01-20T17:20:23+01:00 INFO (6): Query done.
+2016-01-20T17:20:23+01:00 INFO (6): User specific Condition Part: ((color like '%#;#silver#;#%')) AND (parentCategoryIds LIKE '%,6298,%')
+2016-01-20T17:20:23+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((color like '%#;#silver#;#%')) AND (parentCategoryIds LIKE '%,6298,%')
+2016-01-20T17:20:23+01:00 INFO (6): Query: SELECT TRIM(`tentTentPegs`) as `value`, count(DISTINCT o_virtualProductId) as `count` FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((color like '%#;#silver#;#%')) AND (parentCategoryIds LIKE '%,6298,%') GROUP BY TRIM(`tentTentPegs`)
+2016-01-20T17:20:23+01:00 INFO (6): Query done.
+2016-01-20T17:20:23+01:00 INFO (6): User specific Condition Part: ((color like '%#;#silver#;#%')) AND (tentTentPegs IN ('Pegs steel')) AND (parentCategoryIds LIKE '%,6298,%')
+2016-01-20T17:20:23+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((color like '%#;#silver#;#%')) AND (tentTentPegs IN ('Pegs steel')) AND (parentCategoryIds LIKE '%,6298,%')
+2016-01-20T17:20:23+01:00 INFO (6): Query: SELECT TRIM(`tentWaterproofGround`) as `value`, count(DISTINCT o_virtualProductId) as `count` FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((color like '%#;#silver#;#%')) AND (tentTentPegs IN ('Pegs steel')) AND (parentCategoryIds LIKE '%,6298,%') GROUP BY TRIM(`tentWaterproofGround`)
+2016-01-20T17:20:23+01:00 INFO (6): Query done.
+2016-01-20T17:20:23+01:00 INFO (6): User specific Condition Part: ((color like '%#;#silver#;#%')) AND (tentTentPegs IN ('Pegs steel')) AND (parentCategoryIds LIKE '%,6298,%')
+2016-01-20T17:20:23+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((color like '%#;#silver#;#%')) AND (tentTentPegs IN ('Pegs steel')) AND (parentCategoryIds LIKE '%,6298,%')
+2016-01-20T17:20:23+01:00 INFO (6): Query: SELECT TRIM(`tentWaterproofRain`) as `value`, count(DISTINCT o_virtualProductId) as `count` FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((color like '%#;#silver#;#%')) AND (tentTentPegs IN ('Pegs steel')) AND (parentCategoryIds LIKE '%,6298,%') GROUP BY TRIM(`tentWaterproofRain`)
+2016-01-20T17:20:23+01:00 INFO (6): Query done.
+2016-01-20T17:20:23+01:00 INFO (6): User specific Condition Part: ((color like '%#;#silver#;#%')) AND (tentTentPegs IN ('Pegs steel')) AND (parentCategoryIds LIKE '%,6298,%')
+2016-01-20T17:20:23+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((color like '%#;#silver#;#%')) AND (tentTentPegs IN ('Pegs steel')) AND (parentCategoryIds LIKE '%,6298,%')
+2016-01-20T17:20:23+01:00 INFO (6): Query: SELECT SQL_CALC_FOUND_ROWS DISTINCT o_virtualProductId as o_id, priceSystemName FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((color like '%#;#silver#;#%')) AND (tentTentPegs IN ('Pegs steel')) AND (parentCategoryIds LIKE '%,6298,%') LIMIT 9
+2016-01-20T17:20:23+01:00 INFO (6): Query done.
+2016-01-20T17:20:37+01:00 INFO (6): User specific Condition Part: ((gender like '%#;#w#;#%' and gender like '%#;#g#;#%')) AND (parentCategoryIds LIKE '%,100,%')
+2016-01-20T17:20:37+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((gender like '%#;#w#;#%' and gender like '%#;#g#;#%')) AND (parentCategoryIds LIKE '%,100,%')
+2016-01-20T17:20:37+01:00 INFO (6): Query: SELECT count(DISTINCT o_virtualProductId) FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((gender like '%#;#w#;#%' and gender like '%#;#g#;#%')) AND (parentCategoryIds LIKE '%,100,%') 
+2016-01-20T17:20:37+01:00 INFO (6): Query done.
+2016-01-20T17:20:37+01:00 INFO (6): User specific Condition Part: ((gender like '%#;#w#;#%' and gender like '%#;#g#;#%')) AND (parentCategoryIds LIKE '%,100,%')
+2016-01-20T17:20:37+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((gender like '%#;#w#;#%' and gender like '%#;#g#;#%')) AND (parentCategoryIds LIKE '%,100,%')
+2016-01-20T17:20:37+01:00 INFO (6): Query: SELECT TRIM(`gender`) as `value`, count(DISTINCT o_virtualProductId) as `count` FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((gender like '%#;#w#;#%' and gender like '%#;#g#;#%')) AND (parentCategoryIds LIKE '%,100,%') GROUP BY TRIM(`gender`)
+2016-01-20T17:20:37+01:00 INFO (6): Query done.
+2016-01-20T17:20:37+01:00 INFO (6): User specific Condition Part: ((gender like '%#;#w#;#%' and gender like '%#;#g#;#%')) AND (parentCategoryIds LIKE '%,100,%')
+2016-01-20T17:20:37+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((gender like '%#;#w#;#%' and gender like '%#;#g#;#%')) AND (parentCategoryIds LIKE '%,100,%')
+2016-01-20T17:20:37+01:00 INFO (6): Query: SELECT SQL_CALC_FOUND_ROWS DISTINCT o_virtualProductId as o_id, priceSystemName FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 AND ((gender like '%#;#w#;#%' and gender like '%#;#g#;#%')) AND (parentCategoryIds LIKE '%,100,%') LIMIT 9
+2016-01-20T17:20:37+01:00 INFO (6): Query done.
+2016-01-20T17:59:51+01:00 INFO (6): User specific Condition Part: 
+2016-01-20T17:59:52+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1
+2016-01-20T17:59:52+01:00 INFO (6): Query: SELECT count(DISTINCT o_virtualProductId) FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 
+2016-01-20T17:59:52+01:00 INFO (6): Query done.
+2016-01-20T17:59:52+01:00 INFO (6): User specific Condition Part: 
+2016-01-20T17:59:52+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1
+2016-01-20T17:59:52+01:00 INFO (6): Query: SELECT SQL_CALC_FOUND_ROWS DISTINCT o_virtualProductId as o_id, priceSystemName FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 LIMIT 15
+2016-01-20T17:59:52+01:00 INFO (6): Query done.
+2016-01-20T18:03:49+01:00 INFO (6): User specific Condition Part: 
+2016-01-20T18:03:49+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1
+2016-01-20T18:03:49+01:00 INFO (6): Query: SELECT count(DISTINCT o_virtualProductId) FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 
+2016-01-20T18:03:49+01:00 INFO (6): Query done.
+2016-01-20T18:03:49+01:00 INFO (6): User specific Condition Part: 
+2016-01-20T18:03:49+01:00 INFO (6): Total Condition: active = 1 AND o_virtualProductActive = 1 AND inProductList = 1
+2016-01-20T18:03:49+01:00 INFO (6): Query: SELECT SQL_CALC_FOUND_ROWS DISTINCT o_virtualProductId as o_id, priceSystemName FROM plugin_onlineshop_productindex a WHERE active = 1 AND o_virtualProductActive = 1 AND inProductList = 1 LIMIT 15
+2016-01-20T18:03:49+01:00 INFO (6): Query done.

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Metrics/Coupling
+END
+Analyzer.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Metrics/Coupling/Analyzer.php
+END

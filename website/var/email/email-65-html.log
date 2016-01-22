@@ -1,0 +1,224 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><style type="text/css">
+.pimcore_debug_information{
+    width:100%;
+    background-color:#f8f8f8;
+    font-size:12px;
+    font-family: Arial, sans-serif;
+    border-spacing:0px;
+    border-collapse:collapse
+}
+.pimcore_debug_information td, .pimcore_debug_information th{
+    padding: 5px 10px;
+    vertical-align:top;
+    border: 1px solid #ccc;
+
+}
+.pimcore_debug_information th{
+    text-align:center;
+    font-weight:bold;
+}
+.pimcore_label_column{
+    width:80px;
+}
+
+</style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style type="text/css">
+            /* Reset  */
+        body { background-color: #ffffff; margin: 0; padding: 0; font-family: Arial; font-size: 14px; color: #252525; }
+        img { outline: none; text-decoration: none; display: block;}
+        /*br, strong br, b br, em br, i br { line-height:100%; }*/
+        h1, h2, h3, h4, h5, h6 { line-height: 100% !important; -webkit-font-smoothing: antialiased; }
+        h1 { font-size: 18px; }
+        h2 { font-size: 15px; }
+        h1, h2 { text-transform: uppercase; font-weight: bold; color: #1FA6E0; }
+        h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: #000000 !important; }
+        table td, table tr { border-collapse: collapse; }
+        table td { vertical-align: middle; padding: 10px; }
+        #main-table td { padding: 0; }
+        table td a { color: #1FA6E0; text-decoration: none;  }
+        table td.vmiddle { vertical-align: middle; padding: 10px 5px 0 5px; }
+        table tr th { background-color: #f0f0f0; color: #596068; font-weight: normal; padding: 5px;  }
+        table tr th small { font-size: 10px; }
+        .bold {font-weight: bold;}
+        /*p { line-height: 30px; margin-bottom: 40px; }*/
+        p { margin-bottom: 10px; }
+        tr.odd {background: #f3f3f3;}
+        #main-table {
+            position: relative;
+            margin: 20px auto;
+            padding: 0;
+            background-repeat: no-repeat;
+            background-position: 0 0;
+        }
+        table.content-table {
+            border: none;
+            position: relative;
+            margin: 0 auto;
+        }
+        table.content-table.no-border {
+            border: none;
+            position: relative;
+            padding: 10px;
+        }
+        #footer {
+            position: relative;
+            margin: 0 auto;
+            font-size: 12px;
+        }
+        table td.left {
+            text-align: left;
+            padding-left: 50px;
+            padding-top: 5px;
+        }
+        table td.orange {
+            color: #1FA6E0;
+            font-weight: bold;
+            text-transform: uppercase;
+            padding:  15px 10px;
+        }
+        #footer tr td { font-size: 12px; }
+        #productsOverview tr td { background-color: #e9eaea; border-bottom: 1px solid #fff; }
+
+    </style>
+</head>
+
+<body>
+<table cellpadding="0" id="main-table" cellspacing="0" border="0"  width="700">
+    <tr>
+        <td width="700" height="96" style="padding:0;">
+            <img src="http://onlineshop.plugins.elements.pm/static/images/logo.png" />
+        </td>
+    </tr>
+</table>
+
+
+<table width="700" class="content-table no-border" border="0" cellpadding="5" cellspacing="0">
+    <tr>
+        <td>
+            <div id="cke_pastebin"><span style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-size: medium;">Dear Customer,</span></div>
+
+<div><span style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-size: medium;">thank you for your order.</span></div>
+
+<div><span style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-size: medium;">Please bare in mind, that this is a demo system so no actual order has been created.&nbsp;</span></div>
+        </td>
+    </tr>
+
+</table>
+
+<table width="700" class="content-table" border="0" cellpadding="2" cellspacing="0">
+    <tr>
+        <td align="left" valign="middle" bgcolor="#ffffff"  class="orange" colspan="2" style="color:#596068;font-weight: bold; text-transform: uppercase;">email.contact-data</td>
+
+    </tr>
+    <tr>
+        <td align="left" valign="top" style="vertical-align: middle;" bgcolor="#f3f3f3" width="200" class="left" >user.firstname</td>
+        <td bgcolor="#f3f3f3" class="left"></td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle" bgcolor="#FFFFFF" class="left">user.lastname</td>
+        <td bgcolor="#FFFFFF" class="left"></td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle" bgcolor="#f3f3f3" class="left">user.email</td>
+        <td bgcolor="#f3f3f3" class="left"><a href="mailto:"></a></td>
+    </tr>
+</table>
+
+
+
+
+
+<table width="700" class="content-table" border="0" cellpadding="2" cellspacing="0">
+    <tr>
+        <td align="left" valign="middle" bgcolor="#ffffff" class="orange" colspan="4" style="padding-top: 10px; color:#596068;font-weight: bold; text-transform: uppercase;">email.cart cart</td>
+    </tr>
+
+    <tr>
+        <th align="left" style="padding-left: 10px;" width="180">cart.productname<br/><small>checkout.cart.productno</small></th>
+        <th width="100">cart.unitprice</th>
+        <th width="60">cart.quantity</th>
+        <th width="100">cart.totalprice</th>
+    </tr>
+
+
+        <tr>
+        <td align="left" style="color: #1FA6E0; font-size: 12px;"><a href="http://onlineshop.plugins.elements.pm/">Chicago Stability Women</a><br/><span style="color:#252525;">articleno: 2168</span></td>
+        <td align="center"><strong>811.35</strong></td>
+        <td align="center"><strong>1</strong></td>
+        <td align="center"><strong>811.35</strong></td>
+    </tr>
+        <tr>
+        <td align="left" style="color: #1FA6E0; font-size: 12px;"><a href="http://onlineshop.plugins.elements.pm/">Elexir III Women</a><br/><span style="color:#252525;">articleno: 2110</span></td>
+        <td align="center"><strong>628.78</strong></td>
+        <td align="center"><strong>1</strong></td>
+        <td align="center"><strong>628.78</strong></td>
+    </tr>
+        <tr>
+        <td align="left" style="color: #1FA6E0; font-size: 12px;"><a href="http://onlineshop.plugins.elements.pm/">OZ Pro Women</a><br/><span style="color:#252525;">articleno: 2198</span></td>
+        <td align="center"><strong>60.69</strong></td>
+        <td align="center"><strong>1</strong></td>
+        <td align="center"><strong>60.69</strong></td>
+    </tr>
+    
+    <tr>
+        <td style="border-top: 1px solid #1FA6E0;" align="right" colspan="3"><strong>cart.subtotal</strong></td>
+        <td style="border-top: 1px solid #1FA6E0;font-size: 12px;" align="center" ><strong>€ 1.500,82</strong></td>
+    </tr>
+
+
+            <tr>
+            <td style="" align="right" colspan="3">shop.cart.modificationshipping</td>
+            <td style="font-size: 12px;" align="center" >€ 5,90</td>
+        </tr>
+            <tr>
+            <td style="" align="right" colspan="3">shop.cart.modificationcart-discount</td>
+            <td style="font-size: 12px;" align="center" >-€ 150,08</td>
+        </tr>
+    
+    <tr>
+        <td style="border-top: 1px solid #1FA6E0;" align="right" colspan="3"><strong>cart.grandtotal</strong></td>
+        <td style="border-top: 1px solid #1FA6E0;font-size: 18px; color: #596068;" align="center" ><strong>€ 1.356,64</strong></td>
+    </tr>
+
+    
+
+</table>
+
+<!-- VERSANDINFOS -->
+
+<table width="700" class="content-table" border="0" cellpadding="2" cellspacing="0">
+    <tr>
+        <td align="left" valign="middle" bgcolor="#ffffff"  class="orange" colspan="2" style="color:#596068;font-weight: bold; text-transform: uppercase;">checkout.order-information</td>
+
+    </tr>
+    <tr>
+        <td align="left" valign="top" style="padding-top:5px; vertical-align: top;" bgcolor="#f3f3f3" width="200" class="left"><strong>checkout.delivery-address</strong></td>
+        <td bgcolor="#f3f3f3" class="left">
+             <br/>
+            <br/>
+             <br/>
+            <br/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle" bgcolor="#f3f3f3" class="left"><strong>checkout.your-ordernumber</strong></td>
+        <td bgcolor="#f3f3f3" class="left">ord_5559fd77e2ae5</td>
+    </tr>
+    <!--<tr>
+        <td align="center" valign="middle" bgcolor="#f3f3f3" class="left"><strong>checkout.order-comment</strong></td>
+        <td bgcolor="#f3f3f3" class="left"></td>
+    </tr>-->
+</table>
+
+<table cellpadding="10" id="footer" cellspacing="0" border="0"  width="700">
+    <tr>
+        <td valign="center" align="left">&copy; 2013 <strong>pimcore GmbH</strong>, <a target="_blank" href="http://www.pimcore.org">www.pimcore.org</a></td>
+    </tr>
+
+</table>
+<br/><br/><table class="pimcore_debug_information">
+                                    <tr><th colspan="2">Debug information</th></tr><tr><td class="pimcore_label_column">From:</td><td>debug@elements.pm</td></tr><tr><td class="pimcore_label_column">To: </td><td></td></tr><tr><td class="pimcore_label_column">Cc: </td><td>thomas.ballmann@elements.at ()</td></tr></table></body>
+</html>

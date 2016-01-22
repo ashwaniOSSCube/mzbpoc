@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Classes
+END
+ClassFileNameSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Classes/ClassFileNameSniff.php
+END
+ValidClassNameSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Classes/ValidClassNameSniff.php
+END
+ClassDeclarationSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Classes/ClassDeclarationSniff.php
+END
+DuplicatePropertySniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Classes/DuplicatePropertySniff.php
+END
+SelfMemberReferenceSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Classes/SelfMemberReferenceSniff.php
+END
+LowercaseClassKeywordsSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Classes/LowercaseClassKeywordsSniff.php
+END

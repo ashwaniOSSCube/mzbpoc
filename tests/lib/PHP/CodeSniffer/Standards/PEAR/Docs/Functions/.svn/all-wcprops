@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/PEAR/Docs/Functions
+END
+ValidDefaultValueStandard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/PEAR/Docs/Functions/ValidDefaultValueStandard.xml
+END
+FunctionCallSignatureStandard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/PEAR/Docs/Functions/FunctionCallSignatureStandard.xml
+END

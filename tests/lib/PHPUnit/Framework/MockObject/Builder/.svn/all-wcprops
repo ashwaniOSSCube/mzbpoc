@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Builder
+END
+Identity.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Builder/Identity.php
+END
+InvocationMocker.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Builder/InvocationMocker.php
+END
+Match.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Builder/Match.php
+END
+Namespace.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Builder/Namespace.php
+END
+Stub.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Builder/Stub.php
+END
+MethodNameMatch.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Builder/MethodNameMatch.php
+END
+ParametersMatch.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Builder/ParametersMatch.php
+END

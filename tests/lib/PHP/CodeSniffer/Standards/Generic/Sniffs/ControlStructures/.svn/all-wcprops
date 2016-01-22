@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/ControlStructures
+END
+InlineControlStructureSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/ControlStructures/InlineControlStructureSniff.php
+END

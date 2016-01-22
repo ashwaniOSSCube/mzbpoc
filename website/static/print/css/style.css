@@ -1,0 +1,900 @@
+/********************************
+                    _
+                   | |
+ _ __ ___  ___  ___| |_
+| '__/ _ \/ __|/ _ \ __|
+| | |  __/\__ \  __/ |_
+|_|  \___||___/\___|\__|
+
+*********************************/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: MuseoSansRounded100Regular,Arial,sans-serif;
+    font-size: 11pt;
+    line-height: 14pt;
+    color: #435058; /*Webview only*/
+    color: cmyk(74%,58%,48%,31%);
+}
+
+
+/********************************
+             _
+            | |
+  ___  ___  | |  ___   _ __  ___
+ / __|/ _ \ | | / _ \ | '__|/ __|
+| (__| (_) || || (_) || |   \__ \
+ \___|\___/ |_| \___/ |_|   |___/
+
+
+*********************************/
+
+/* DEFAULT COLOR */
+
+.canvas h1, .canvas h3{
+    color: #289FDC; /*Webview only*/
+    color: cmyk(73%,23%,0,0);
+}
+.canvas th, .canvas .basetable thead, .canvas li span, li div.entry, .canvas #tabindex li, .chapter{
+    background-color: #289FDC;/*Webview only*/
+    background-color: cmyk(73%,23%,0,0);
+}
+.canvas .chapterheading {
+    color: #bde9ff; /*Webview only*/
+    color: cmyk(29%,0,0,0);
+}
+.canvas .chaptercontent li span.mainchapter,
+.canvas table.basetable th td.subheadline, .canvas table.basetable thead td.subheadline, .canvas #tabindex li.transparent {
+    background-color: #bde9ff; /*Webview only*/
+    background-color: cmyk(29%,0,0,0);
+}
+
+.canvas .contenttype.table .line {
+    background: #289FDC;/*Webview only*/
+    background: cmyk(73%,23%,0,0);
+}
+
+
+/*Protouch*/
+
+.protouch h1, .protouch h3{
+    color: #eb1e1e; /*Webview only*/
+    color: cmyk(0,94%,93%,0);
+}
+.protouch th, .protouch .basetable thead, li.purple span, li.protouch div.entry, #tabindex li.purple, .chapter.protouch{
+    background-color: #eb1e1e;/*Webview only*/
+    background-color: cmyk(0,94%,93%,0);
+}
+.protouch .chapterheading {
+    color: #f09797; /*Webview only*/
+    color: cmyk(0,52%,30%,0);
+}
+.protouch .chaptercontent li span.mainchapter,
+.protouch table.basetable th td.subheadline, .protouch table.basetable thead td.subheadline, #tabindex li.protouch.transparent {
+    background-color: #f09797; /*Webview only*/
+    background-color: cmyk(0,52%,30%,0);
+}
+
+.protouch .contenttype.table .line {
+    background: #eb1e1e;/*Webview only*/
+    background: cmyk(0,94%,93%,0);
+}
+
+
+
+/*McKinley*/
+
+.mckinley h1, .mckinley h3{
+    color: #7b7a68; /*Webview only*/
+    color: cmyk(55%,44%,55%,13%);
+}
+.mckinley th, .mckinley .basetable thead, li.purple span, li.mckinley div.entry, #tabindex li.purple, .chapter.mckinley{
+    background-color: #7b7a68;/*Webview only*/
+    background-color: cmyk(55%,44%,55%,13%);
+}
+.protouch .chapterheading {
+    color: #b9b9b2; /*Webview only*/
+    color: cmyk(33%,24%,27%,0);
+}
+.mckinley .chaptercontent li span.mainchapter,
+.mckinley table.basetable th td.subheadline, .mckinley table.basetable thead td.subheadline, #tabindex li.mckinley.transparent {
+    background-color: #b9b9b2; /*Webview only*/
+    background-color: cmyk(33%,24%,27%,0);
+}
+
+.mckinley .contenttype.table .line {
+    background: #7b7a68;/*Webview only*/
+    background: cmyk(55%,44%,55%,13%);
+}
+
+
+
+/**************************
+  __               _
+/ _|              | |
+| |_  ___   _ __  | |_  ___
+|  _|/ _ \ | '_ \ | __|/ __|
+| | | (_) || | | || |_ \__ \
+|_|  \___/ |_| |_| \__||___/
+
+***************************/
+
+@font-face {
+    font-family: 'MuseoSansRounded100Regular';
+    src: url('/website/static/print/fonts/MuseoSansRounded-100-webfont.eot');
+    src: url('/website/static/print/fonts/MuseoSansRounded-100-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/website/static/print/fonts/MuseoSansRounded-100-webfont.woff') format('woff'),
+    url('/website/static/print/fonts/MuseoSansRounded-100-webfont.ttf') format('truetype'),
+    url('/website/static/print//fonts/MuseoSansRounded-100-webfont.svg#MuseoSansRounded100Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/**************************
+ _                         _
+| |                       | |
+| | __ _ _   _  ___  _   _| |_
+| |/ _` | | | |/ _ \| | | | __|
+| | (_| | |_| | (_) | |_| | |_
+|_|\__,_|\__, |\___/ \__,_|\__|
+          __/ |
+         |___/
+
+***************************/
+
+/********PAGE TYPES**********/
+
+@page {
+    size: A4;
+    padding-top: 30mm;
+    counter-increment: page;
+    @bottom-center {
+        content: xhtml("<a href='#generalToc' class='logo'> <img src='/website/static/print/img/pimcore2013.svg' ></img></a>");
+        margin: 0 0 9mm;
+        width: 25mm;
+    }
+}
+
+@page:right { /* actually left */
+    margin: 0 10mm 15mm 10mm;
+
+    @top-left {
+         content: xhtml("<div class='header'><b><span class='maintitle'></span></b><span class='subtitle'></span></div>");
+          z-index: 100;
+    }
+    @bottom-left-corner {
+        content: counter(page);
+        font-family: MuseoSansRounded100Regular;
+        font-size: 9pt;
+        color: #435058; /*webview only */
+        color: cmyk(74%,58%,48%,31%);
+        height: 5.3mm;
+        width: 13mm;
+        margin: 0 0 1mm 10mm;
+        text-align: left;
+    }
+    @bottom-center {
+        content: xhtml("<a href='#generalToc' class='logo'> <img src='/website/static/print/img/pimcore2013.svg' ></img></a>");
+        margin-left: 163mm;
+    }
+}
+
+@page:left { /* actually right */
+    margin: 0 10mm 15mm 10mm;
+
+    @top-right {
+        content: xhtml("<div class='header rightpage'><b><span class='maintitle'></span></b><span class='subtitle'></span></div>");
+    }
+    @bottom-right-corner {
+        content: counter(page);
+        font-family: MuseoSansRounded100Regular;
+        font-size: 9pt;
+        color: #435058; /*webview only */
+        color: cmyk(74%,58%,48%,31%);
+        height: 5.3mm;
+        width: 13mm;
+        margin: 0 0 1mm -13mm;
+        text-align: right;
+    }
+}
+
+@page titlepage {
+    size: A4;
+    padding-top: 30mm;
+    /*counter-reset: page;*/
+    -ro-counter-set: page -1;
+@bottom-center {
+        content: "";
+        margin: 0 0 3.7mm;
+        width: 25mm;
+    }
+@top-left {
+        content: "";
+    }
+@top-right {
+        content: "";
+    }
+
+@bottom-left-corner {
+        content: "";
+    }
+@right-bottom{
+        content: "";
+    }
+@bottom-right-corner {
+        content: "";
+    }
+    }
+
+@page indexpage:left {
+    @bottom-right-corner {
+        content: "";
+    }
+}
+@page indexpage:right {
+    @bottom-left-corner {
+        content: "";
+    }
+}
+
+
+/* HEADLINES  */
+
+.header {
+    color: #000000; /*webview only*/
+    color: cmyk(0,0,0,100%);
+}
+
+.header .maintitle, .header .subtitle  {
+    -ro-pdf-overprint-content: mode1;
+}
+
+.header .maintitle:before {
+    content: string(headlineChaptertitle);
+}
+
+.header .maintitle:after {
+    content: string(headlineSeperator);
+}
+.header .subtitle:before {
+    content: string(headlineChaptersubtitle);
+}
+
+.layout-headline-chaptertitle {
+    string-set: headlineChaptertitle self;
+
+    /* in order to hide these elements */
+    position: absolute;
+    top: -5000px;
+}
+
+.layout-headline-chaptersubtitle {
+    string-set: headlineChaptersubtitle self;
+
+    /* in order to hide these elements */
+    position: absolute;
+    top: -5000px;
+}
+.layout-headline-seperator {
+    string-set: headlineSeperator self;
+
+    /* in order to hide these elements */
+    position: absolute;
+    top: -5000px;
+}
+
+
+/**************************
+     _         _ _
+    | |       | (_)
+ ___| |_ _   _| |_ _ __   __ _
+/ __| __| | | | | | '_ \ / _` |
+\__ \ |_| |_| | | | | | | (_| |
+|___/\__|\__, |_|_|_| |_|\__, |
+          __/ |           __/ |
+         |___/           |___/
+
+**************************/
+
+
+.pagebreak-force-page-break {
+    page-break-after: always;
+}
+
+.header{
+    font-family: MuseoSansRounded100Regular;
+
+    height: 5.3mm;
+    padding-top: 8.7mm;
+    border-bottom: 1px solid #435058; /*webview only*/
+    border-bottom: 0.2pt solid cmyk(74%,58%,48%,31%);
+}
+.header.rightpage{
+    text-align: right;
+}
+.header b{
+    font-family: MuseoSansRounded100Regular;
+}
+.logo{
+    width: 25mm;
+}
+.logo img {
+    height: 6.878mm;
+}
+
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+
+
+h1{
+    font-family: MuseoSansRounded100Regular,Arial,sans-serif; /* 'NewsGothicFSDemiBold', Arial, 'sans-serif';*/
+    font-size: 30.2pt;
+    line-height: 33.6pt;
+
+}
+h2{
+    font-size: 16.6pt;
+    line-height: 19.2pt;
+    color: #495158; /*webview only*/
+    color: cmyk(72%,58%,49%,31%);
+    margin-bottom: 2mm;
+}
+h3{
+    font-family: MuseoSansRounded100Regular,Arial,sans-serif; /* 'NewsGothicFSDemiBold', Arial, 'sans-serif';*/
+    font-size: 13.3pt;
+    font-weight: normal;
+    margin-bottom: 3.3mm;
+}
+
+.page {
+    page-break-after: always;
+}
+
+.page ul {
+    /*list-style-position: inside;*/
+    list-style-image: url(/website/static/print/katalog/imgs/ulbullet-bottomspace.svg);
+    padding-left: 3.8mm;
+}
+.page li {
+
+}
+
+.page .basetable ul{
+    list-style: none;
+    padding-left: 0;
+}
+.page .basetable li{
+    background: url(/website/static/print/katalog/imgs/ulbullet.svg) 0 1.2mm no-repeat;
+    background-size: 1.4mm 1.4mm;
+    padding-left: 2.6mm;
+
+    line-height: 9pt;
+}
+
+
+/************INDEX PAGE**************/
+
+.contenttype.index ul li {
+    page-break-inside: avoid;
+}
+
+
+/************CHAPTERS**************/
+
+.chapterheading{
+    font-family: MuseoSansRounded100Regular;
+    font-size: 60pt;
+    line-height: 80pt;
+    color: #fff; /*Webview only*/
+    color: cmyk(0,0,0,0);
+    text-transform: uppercase;
+    top: 17.5mm;
+    left: 23mm;
+    position: absolute;
+}
+.chaptercontentwrapper{
+    position: absolute;
+    right: 10mm;
+    bottom: 23mm;
+    height: 217mm;
+    color: #fff; /*Webview only*/
+    color: cmyk(0,0,0,0);
+    width: 118mm;
+}
+.chaptercontent{
+    position: absolute;
+    bottom: 0;
+    width: 118mm;
+}
+.chaptercontent li, .chaptercontent li li{
+    background-image: none;
+    list-style: none;
+    padding: 0;
+}
+.chaptercontent li span {
+    overflow: hidden;
+    margin-bottom: 2mm;
+    padding: 0 1.5mm 2.2mm 1.5mm;
+    padding: 0 1.5mm 1mm 1.5mm;
+    display: block;
+    color: #fff; /*Webview only*/
+    color: cmyk(0,0,0,0);
+    font-family: MuseoSansRounded100Regular, Arial, 'sans-serif';
+    text-transform: uppercase;
+    font-size: 12.5pt;
+    line-height: 11pt;
+    line-height: 14pt;
+
+}
+
+.chaptercontent li a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.chaptercontent li a:after {
+    content: leader("\00A0") target-counter(attr(href), page);
+}
+
+.chaptercontent li ul{
+    margin: 1.2mm 0 5.6mm 0;
+    padding-left: 0;
+}
+.chaptercontent li li span{
+    margin-bottom: 0;
+    background: none;
+    overflow: hidden;
+    position: relative;
+    font-family: MuseoSansRounded100Regular;
+    font-size: 11pt;
+    line-height: 14pt;
+    text-transform: none;
+    padding: 0 1.5mm;
+    padding-right: 2mm;
+}
+
+/*CONTENTTYPES*/
+
+.contenttype{
+    /*page-break-after: always;*/
+    position: relative;
+    margin-bottom: 11.5mm;
+}
+
+/*contenttype table*/
+
+table.basetable{
+    border-collapse: collapse;
+    font-size: 8.6pt;
+    line-height: 9pt;
+    vertical-align: bottom;
+    width: 100%;
+    border: none;
+
+    color: #000; /*Webview only*/
+    color: cmyk(0,0,0,100%);
+
+    page-break-before: avoid;
+}
+table.basetable tbody tr {
+    background: #e2e6e8; /*Webview only*/
+    background: cmyk(14%,7%,7%,0);
+}
+table.basetable tbody tr.even  {
+    background: #f8f9fa;
+    background: cmyk(3%,2%,1%,0);
+}
+
+table.basetable img.image {
+    /*max-width: 20mm;*/
+    /*max-height: 25mm;*/
+    width: 20mm;
+}
+
+table.basetable th, table.basetable td{
+    border: 0.3mm solid white;
+    padding: 1mm;
+    /*padding: 1.5mm 1.5mm 2.5mm 1.5mm;*/
+    border-bottom: none;
+    vertical-align: top;
+    page-break-inside: avoid;
+}
+table.basetable tbody td {
+   /* padding-bottom: 1.4mm;
+    padding-top: 0.7mm;
+    overflow: visible;*/
+
+    -ro-pdf-overprint-content: mode1;
+}
+table.basetable thead td {
+    padding-top: 0.7mm;
+    padding-bottom: 1.4mm;
+}
+table.basetable th, table.basetable thead {
+    color: #fff; /*Webview only*/
+    color: cmyk(0,0,0,0);
+    text-align: center;
+    font-family: MuseoSansRounded100Regular, Arial, 'sans-serif';
+}
+
+table.basetable th a, table.basetable thead a {
+    color: #fff; /*Webview only*/
+    color: cmyk(0,0,0,0);
+    text-decoration: none;
+}
+
+table.basetable .additionalinfo th, table.basetable thead .additionalinfo td {
+    padding: 0;
+    border-width: 0 1px;
+}
+table.basetable th td.subheadline, table.basetable thead td.subheadline {
+    padding: 1mm;
+    padding-top: 0.7mm;
+    padding-bottom: 1.4mm;
+    /*line-height: 4mm;*/
+    /*display: block;*/
+    /*background: url(/website/static/print/katalog/imgs/white30.png);*/
+}
+table.basetable tbody td:first-child {
+    background: #c5cdd2; /*Webview only*/
+    background: cmyk(27%,16%,14%,0);
+}
+table.basetable tbody tr.even td:first-child {
+   background: #f0f3f5; /*Webview only*/
+   background: cmyk(7%,3%,3%,0);
+}
+
+ .pimcore_area_PrintWysiwygTable table.basetable tbody tr td {
+    background: #f8f9fa;
+    background: cmyk(3%,2%,1%,0);
+}
+
+
+
+.table li{
+    background-position: 0 1.4mm;
+}
+
+/*contenttype table image*/
+
+.table.image table{
+    /*width: 143mm;*/
+    width: 154.5mm;
+}
+.table.image .productimage{
+    /*width: 30mm;*/
+    width: 20.25mm;
+    margin-left: 2mm;
+    float: right;
+}
+.table.image img{
+    /*width: 30mm;*/
+    max-width: 20mm;
+    /*max-height: 25mm;*/
+}
+
+/*contenttype table imagerow*/
+
+
+.table.imagerow td:last-child, .table.imagerow th:last-child{
+    background: white;
+    padding: 0;
+}
+.table.imagerow img{
+    width: 20mm;
+    margin-left: 3.7mm;
+}
+
+.wysiwyg .text{
+    /*margin-left: 60.333mm;*/
+    margin-top: 15.4mm;
+    display: block;
+    padding-bottom: 2.5mm;
+    border-bottom: 1px solid #435058; /*webview only*/
+    border-bottom: 0.125pt solid cmyk(74%,58%,48%,31%);
+}
+
+.wysiwyg.image .texts {
+    margin-left: 60.3333mm;
+}
+
+.wysiwyg.image .productimage {
+    width: 56.333mm;
+}
+
+.wysiwyg.image .productimage img{
+    margin: 3.7mm 4mm 0 0;
+    max-width: 56.333mm;
+    float: left;
+    padding-bottom: 5mm;
+    max-height: 80mm;
+}
+
+
+.wysiwyg.image.productdescription .texts {
+    margin-left: 0;
+    float: left;
+    width: 120mm;
+}
+
+.wysiwyg.image.productdescription .productimage {
+    float: right;
+}
+
+.wysiwyg.image.productdescription {
+    clear: both;
+}
+
+
+/*contenttype index*/
+
+.index li{
+    padding: 0;
+    background-image: none;
+    overflow: hidden;
+    margin-bottom: 2mm;
+}
+.index li div.entry{
+    padding: 0 1.5mm 2.2mm 1.5mm;
+    display: block;
+    background-image: none;
+    color: #fff; /*Webview only*/
+    color: cmyk(0,0,0,0);
+    font-family: MuseoSansRounded100Regular, Arial, 'sans-serif';
+    text-transform: uppercase;
+    text-align: left;
+    width: 100%;
+    font-size: 12.5pt;
+    line-height: 11pt;
+    padding-right: 0;
+}
+.index li ul{
+    margin: 1.2mm 0 5.6mm 0;
+}
+.index li li{
+    padding: 0;
+    margin-bottom: 0;
+    background-image: none;
+    overflow: hidden;
+    position: relative;
+}
+.index li li span{
+    color: #435058; /*Webview only*/
+    color: cmyk(74%,58%,48%,31%);
+    background-color: #435058;/*Webview only*/
+    background-color: cmyk(74%,58%,48%,31%);
+    font-family: MuseoSansRounded100Regular;
+    font-size: 11pt;
+    line-height: 14pt;
+    text-transform: none;
+    background: white;
+    padding: 0 1.5mm;
+}
+.index li li span.line{
+    border-bottom: 0.125pt solid #767c81; /*Webview only*/
+    border-bottom: 0.125pt solid cmyk(59%,46%,40%,8%);
+    padding: 0 0 4mm 0;
+}
+
+
+.pimcore_area_PrintKatalogProductDescription .contenttype.column-3 {
+    font-size: 10pt;
+    line-height: 13pt;
+}
+
+.pimcore_area_PrintKatalogProductDescription .contenttype.column-3 p {
+    font-size: 10pt;
+    line-height: 13pt;
+    padding-bottom: 1pt;
+}
+
+.pimcore_area_PrintKatalogProductDescription .contenttype.column-3 ul {
+    -ro-column-break-before: avoid;
+}
+
+.pimcore_area_PrintKatalogProductDescription .contenttype.column-3 ul li {
+    -ro-column-break-inside: avoid;
+    page-break-inside: avoid;
+
+    padding-bottom: 1pt;
+}
+
+.pimcore_area_PrintKatalogProductDescription .contenttype.column-3 ul ul {
+    list-style-image: url(/website/static/print/katalog/imgs/ulbullet-line-bottomspace.svg);
+}
+
+.page .basetable td ul ul li {
+    background: url(/website/static/print/katalog/imgs/ulbullet-line.svg) 0 1.6mm no-repeat;
+}
+
+
+.pimcore_area_PrintKatalogProductDescription .wysiwyg .text, .pimcore_area_PrintKatalogProductDescriptionVariants .wysiwyg .text {
+    border-bottom: none;
+}
+
+
+.pimcore_area_PrintKatalogProductDescription .product-description-headline, .pimcore_area_PrintKatalogProductDescriptionVariants .product-description-headline {
+    clear: both;
+}
+
+.pimcore_area_PrintKatalogProductDescription .contenttype.column-3 hr, .pimcore_area_PrintKatalogProductDescriptionVariants .contenttype.column-3 hr {
+    display: none;
+}
+
+.pimcore_area_PrintColumnAttributeTable .headline p {
+    padding-bottom: 2mm;
+}
+
+.pimcore_area_PrintColumnAttributeTable .headline h4 {
+    padding-bottom: 2mm;
+    page-break-after: avoid;
+}
+
+.pimcore_area_PrintColumnAttributeTable .basetable {
+    margin-bottom: 10mm;
+}
+
+.basetable a.productlink {
+    text-decoration: none;
+    color: inherit;
+}
+
+.basetable td.metaentry {
+    page-break-after: avoid;
+
+    background-color: #fff !important;
+    background-color: cmyk(0,0,0,0) !important;
+
+    font-weight: bold;
+    padding: 0;
+    padding-top: 1mm;
+    padding-bottom: 1mm;
+}
+
+.basetable td.metaentry div.value {
+    padding-left: 1mm;
+    padding-right: 1mm;
+}
+
+.contenttype.table .basetable tr.odd td.metaentry .line {
+    background: #e2e6e8; /*Webview only*/
+    background: cmyk(14%,7%,7%,0);
+}
+
+.contenttype.table .basetable tr.even td.metaentry .line {
+    background: #fff;
+    background: cmyk(0,0,0,0);
+}
+
+
+.contenttype.table .basetable td.metaentry .line.top {
+    margin-bottom: 1mm;
+}
+.contenttype.table .basetable td.metaentry .line.bottom {
+    margin-top: 1mm;
+}
+
+.basetable td sup {
+    font-size: 5pt;
+    padding-left: 1mm;
+}
+
+
+.contenttype.table .line {
+    height: 0.3mm;
+    background: black;
+    border-right: 0.15mm solid white;
+    border-left: 0.15mm solid white;
+    /*page-break-before: avoid;*/
+}
+
+.contenttype.table.image .line {
+    width: 154.2mm;
+}
+.contenttype.table .shortline.line {
+    width: 154.4mm;
+    margin-bottom: 0.2mm;
+}
+
+.contenttype.table .posttext {
+    padding-top: 1mm;
+    font-size: 8pt;
+    line-height: 10pt;
+}
+
+
+.index li div a {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+
+#generalToc ul {
+    list-style: none;
+    padding-left: 0;
+    padding-bottom: 5mm;
+}
+
+
+#generalToc ul ul {
+    padding-left: 5mm;
+}
+
+#generalToc .mainChapter .entry {
+    padding-top: 0.5mm;
+    padding-bottom: 0.5mm;
+    padding-left: 1mm;
+    margin-bottom: 1mm;
+}
+
+#generalToc .mainChapter .entry a {
+    font-weight: bold;
+    color: #fff;
+}
+
+#generalToc .mainChapter .entry a:after {
+    content: leader("\00A0") target-counter(attr(href), page);
+}
+
+#generalToc .mainChapter .subentry a:after {
+    content: leader(dotted) target-counter(attr(href), page);
+}
+
+
+
+
+
+/* ============= TABLE STYLE CLASSES ===================== */
+
+.basetable td.imagecolumn {
+    background-color: #fff; /*Webview only*/
+    background-color: cmyk(0,0,0,0);
+
+    padding-left: 2mm;
+    padding-right: 0;
+    width: 20mm;
+}
+
+.basetable td.width-14 {
+    width: 14mm !important;
+}
+
+.basetable td.width-22 {
+    width: 22mm !important;
+}
+
+.basetable td.width-9 {
+    width: 9mm !important;
+}
+
+.basetable td.width-6 {
+    width: 6mm !important;
+}
+
+.basetable tbody td.bold {
+    font-weight: bold;
+}
+
+
+.basetable td.width-full {
+    width: 100%;
+}
+
+.basetable td.align-center {
+    text-align: center;
+}
+.basetable td.align-left {
+    text-align: left;
+}
+.basetable td.align-right {
+    text-align: right;
+}

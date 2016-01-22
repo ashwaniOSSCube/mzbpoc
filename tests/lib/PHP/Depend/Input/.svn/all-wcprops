@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Input
+END
+Iterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Input/Iterator.php
+END
+ExcludePathFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Input/ExcludePathFilter.php
+END
+FilterI.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Input/FilterI.php
+END
+ExtensionFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Input/ExtensionFilter.php
+END
+CompositeFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Input/CompositeFilter.php
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Node
+END
+AbstractNode.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Node/AbstractNode.php
+END
+Annotation.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Node/Annotation.php
+END
+ASTNode.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Node/ASTNode.php
+END
+Annotations.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Node/Annotations.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Node/Interface.php
+END
+Method.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Node/Method.php
+END
+AbstractCallable.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Node/AbstractCallable.php
+END
+Trait.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Node/Trait.php
+END
+AbstractType.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Node/AbstractType.php
+END
+Class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Node/Class.php
+END
+Function.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Node/Function.php
+END

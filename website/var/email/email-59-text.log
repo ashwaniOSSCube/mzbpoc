@@ -1,0 +1,16 @@
+Dear Customer, thank you for your order. Please bare in mind, that this is
+a demo system so no actual order has been created.  email.contact-data
+user.firstname Thomas user.lastname Ballmann user.email
+thomas.ballmann@elements.at email.cart cart
+cart.productnamecheckout.cart.productno cart.unitprice cart.quantity
+cart.totalprice All Courtarticleno: 2465 33.35 1 33.35 cart.subtotal
+â¬Â 33,35 shop.cart.modificationshipping â¬Â 5,90
+cart.grandtotal â¬Â 39,25 checkout.order-information
+checkout.delivery-address Thomas Ballmann Hauptstr 15 4444 5020
+checkout.your-ordernumber ord_553665074605b © 2013 pimcore GmbH,
+www.pimcore.org
+  
+Debug Information:  
+  
+To: thomas.ballmann@elements.at ()
+Cc: thomas.ballmann@elements.at ()

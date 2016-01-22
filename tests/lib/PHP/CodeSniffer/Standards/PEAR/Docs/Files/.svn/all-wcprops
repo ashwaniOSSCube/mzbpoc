@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/PEAR/Docs/Files
+END
+LineLengthStandard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/PEAR/Docs/Files/LineLengthStandard.xml
+END
+IncludingFileStandard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/PEAR/Docs/Files/IncludingFileStandard.xml
+END

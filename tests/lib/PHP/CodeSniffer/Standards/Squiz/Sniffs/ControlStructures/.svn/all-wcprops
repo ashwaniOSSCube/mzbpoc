@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/ControlStructures
+END
+InlineIfDeclarationSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/ControlStructures/InlineIfDeclarationSniff.php
+END
+ForLoopDeclarationSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/ControlStructures/ForLoopDeclarationSniff.php
+END
+ForEachLoopDeclarationSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/ControlStructures/ForEachLoopDeclarationSniff.php
+END
+SwitchDeclarationSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/ControlStructures/SwitchDeclarationSniff.php
+END
+LowercaseDeclarationSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/ControlStructures/LowercaseDeclarationSniff.php
+END
+ElseIfDeclarationSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/ControlStructures/ElseIfDeclarationSniff.php
+END
+ControlSignatureSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/ControlStructures/ControlSignatureSniff.php
+END

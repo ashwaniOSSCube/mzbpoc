@@ -1,0 +1,964 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- This code must remain in all header files -->
+    <base href="https://www.shopmzb.com/mzb_usa_com/store//" />
+    <!-- end -->
+	<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=iso-8859-1" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width" />
+	<title>Massimo Zanetti Beverage Online Store - Shipping &amp; Returns</title>
+	<meta name="description" content="
+	
+	
+	
+	
+	
+Shipping
+				UPS Ground is currently
+our only shipping method offered. UPS can only deliver to a street address. NO
+PO BOXES. Orde" />
+	<meta name="keywords" content="" />
+	<link rel="stylesheet" type="text/css" media="all" href="stylesheets/contentslider.css" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/tabcontent700.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="templates/default-3cols/css/layout.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="templates/default-3cols/css/menu.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="templates/default-3cols/css/shop700.css" />
+	
+ <link href="templates/default-3cols/css/bootstrap.css" rel="stylesheet">
+	<link rel="stylesheet" href="templates/default-3cols/css/bootstrap.offcanvas.css"/> <!-- Only If Using OffCanvas Menu -->
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	<!--[if lt IE 9]>
+    <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->	<script language="javascript" type="text/javascript">
+	<!--
+	function clearfield(pform){
+	if (pform.keyword.value == "search this site")
+		pform.keyword.value = "";
+	}
+	-->
+	</script>
+	<script language="javascript" type="text/javascript">
+	<!--
+	function toggleMe(a){
+	  var e=document.getElementById(a);
+	  //if(!e)return true;
+	  if(e.style.display=="none"){
+		e.style.display="block"
+	  } else {
+		e.style.display="none"
+	  }
+	  //return true;
+	}
+	-->
+	</script>
+	<script language="javascript" type="text/javascript">
+	<!--
+	function checkjavascriptstatus(){
+	   var checkingurl="shopcheckjavascript.asp";
+	   var pars = '';
+	   var url = checkingurl + '?' + pars;
+	   new Ajax.Request(url, {method: 'post',
+					   onSuccess: function(transport) {
+					   }
+					   }); 
+	}
+	-->
+	</script>
+	<!--<noscript>not support</noscript>-->
+	<script src="js/1.11.2.jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+<script src="js/bootstrap.offcanvas.js"></script>
+	<script language="javascript" type="text/javascript" src="js/vs350.js"></script>
+	<script language="javascript" type="text/javascript" src="js/contentslider.js"></script>
+    <script language="javascript" type="text/javascript" src="js/tabcontent700.js"></script>
+    <script language="javascript" type="text/javascript" src="js/shopajaxsearch.js"></script>
+    <script language="javascript" type="text/javascript" src="shopcheckjavascript.asp"></script>
+    <!-- '701 - 2011.03.15 - Enhancement: Speed up store performance -->
+        <!-- Enhancement: To include TYNT -->
+    </head>
+<body>
+<div class="visible-xs-block">
+<nav class="navbar navbar-default navbar-fixed-top">
+<div style="text-align:center;">
+<div class="row"  style="height:90px;background-image:url(templates/default-3cols/images/logo-bg-main.jpg
+);background-size:cover;">
+<header class="clearfix">
+        
+<a href="default.asp"><!--<img src="images/American_Patio_logo_mobile.gif" style='padding-top:10px;'/> --></a>
+<div style='float:right;text-align:Center;padding-top:15px;font-size:30px;line-height:12px;padding-right:10px;line-height:12px;'>
+<a href='shopaddtocart.asp' style="color:#fff">
+<span class="glyphicon glyphicon glyphicon-shopping-cart" style="color:#fff" aria-hidden="true"></span><br><span style='font-size:11px;'>My Cart
+ 0
+</span></a></div>
+
+</div>
+<div style="clear:both;"></div>
+<div class="col-xs-2">
+<button type="button" class="navbar-toggle offcanvas-toggle" data-toggle="offcanvas" data-target="#js-bootstrap-offcanvas">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+</div>
+<div class="col-xs-10" style="padding-top:7px;">
+<form action="shopsearch.asp?search=Yes" method="post" class="form-inline">
+<div class="input-group">
+      <input type="text" class="form-control"  style='font-size:10px;'  required placeholder="Enter Search Term(s) Here">
+      <span class="input-group-btn">
+        <button class="btn btn-default" name="Action" type="submit">Search!</button>
+      </span>
+    </div>
+	</form>
+</div>
+
+
+        <nav class="navbar navbar-default navbar-offcanvas navbar-offcanvas-touch" role="navigation" id="js-bootstrap-offcanvas">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#">Massimo Zanetti Beverage Online Store</a>
+                </div>
+                <div>     
+					<ul class="nav navbar-nav" style='text-align:left;padding-left:4px;'>
+     				<li class="active"><a href="default.asp">Home</a></li>          
+                        <li class="dropdown"><a href='#' class='dropdown-toggle'>Chase &amp; Sanborn<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href='shopdisplaycategories.asp?id=8'>View All</a></li><li><a href="shopdisplayproducts.asp?id=50&amp;cat=Special+Roast">Special Roast</a></li><li><a href="shopdisplayproducts.asp?id=49&amp;cat=Decaffeinated">Decaffeinated</a></li><li><a href="shopdisplayproducts.asp?id=215&amp;cat=Merchandise">Merchandise</a></li></ul></li><li class="dropdown"><a href='#' class='dropdown-toggle'>Krispy Kreme Doughnuts Coffee<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href='shopdisplaycategories.asp?id=209'>View All</a></li><li><a href="shopdisplayproducts.asp?id=211&amp;cat=Smooth">Smooth</a></li><li><a href="shopdisplayproducts.asp?id=212&amp;cat=Rich">Rich</a></li><li><a href="shopdisplayproducts.asp?id=210&amp;cat=Decaffeinated">Decaffeinated</a></li></ul></li><li class="dropdown"><a href='#' class='dropdown-toggle'>Reveille Coffee<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href='shopdisplaycategories.asp?id=217'>View All</a></li><li><a href="shopdisplayproducts.asp?id=219&amp;cat=Regular+Roast">Regular Roast</a></li><li><a href="shopdisplayproducts.asp?id=218&amp;cat=Dark+Roast">Dark Roast</a></li><li><a href="shopdisplayproducts.asp?id=220&amp;cat=Decaf">Decaf</a></li></ul></li><li><a href="shopdisplayproducts.asp?id=2&amp;cat=Segafredo+Zanetti">Segafredo Zanetti</a></li>
+						<li><hr /></li>
+						<li><a href="http://www.shopmzb.com/chockfullonuts_com/Shop/default.asp">Chock full o'Nuts</a></li>
+      <li><a href="http://www.shopmzb.com/hillsbros_com/shop/">Hills Bros.</a></li>
+	  <li><a href="http://www.shopmzb.com/hillsbros_cap_com/Shop/">Hills Bros. Cappuccino</a></li>
+	  <li><a href="http://www.shopmzb.com/hillsbros_com/shop/shopdisplaycategories.asp?id=15">Hills Bros. Premium</a></li>
+	  <li><a href="http://www.shopmzb.com/mzb_usa_com/kauaistore/">Kauai Coffee</a></li>
+	  
+	  <li><a href="http://www.shopmzb.com/mjbcoffee_com/Shop/">MJB</a></li>
+	  <li><hr /></li>
+						<li><a href="shopcustadmin.asp">My Account</a></li>
+						<li><a href="shopcontent.asp?type=Aboutus">About Us</a> </li>
+						<li><a href="shopcontent.asp?type=FAQ">FAQs</a></li>
+						<li><a href="https://www.mzb-usa.com/contact/">Contact Us</a></li>
+						<li><a href="shopcontent.asp?type=shipping">Shipping & Returns</a></li>
+						<li><a href="shopcontent.asp?type=terms">Terms & Conditions</a></li>
+						<li><a href="shopcontent.asp?type=privacy">Privacy</a></li>
+                         
+                        
+						
+						 
+						  
+						   
+                           
+					</ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+ </div>
+ </nav>
+ <div style="height:120px;"></div>
+ </div>
+
+<div style="clear:both;"></div>
+	<div id="wrap page-content">
+	<div class="container">
+		<!-- BEGIN HEADER -->
+		<div id="header" class="container visible-lg-block visible-md-block visible-sm-block">
+			<div class="columns row" style="background-image:url(templates/default-3cols/images/logo-bg-main.jpg
+);">
+				<!-- LOGO DISPLAY AND LINK -->
+				<div class="col-xs-6">
+                <div id="vp_logo"><a title="MZB-USA Online Store" class="logo" href="default.asp"><img  src="images/logo-shim.gif" width="295" height="140" alt="MZB-USA Online Store" title="MZB-USA Online Store" /></a>
+</div>
+				</div>
+				<!-- WELCOME BOX  -->
+				<div class="col-xs-6">
+				<div id="vp_welcomeboxsquare"><table class="utility-box">
+<tr>
+<td valign="middle">
+<div class="utility-box-top"></div>
+<div class="utility-box-content">
+<div class="utility-row">
+<strong>
+Welcome, Guest</strong>
+<span style="float: right;"> 
+(
+<a href="shopaddtocart.asp
+"> View Cart </a> &nbsp;|&nbsp;
+
+<a href="shopcustadminlogin.asp">Login</a>
+) 
+</span>
+<div class="cb"></div>
+</div>
+</div>
+<div class="utility-box-bottom"></div>
+<form action="shopsearch.asp?search=Yes" method="get">
+<div align='right'><input name="keyword" type="text" id='keywordinputfld'> <input name="Search" type="submit" value="Search" id='searchbtn'>
+<br><a href="shopsearch.asp"><span id='adsearchlink'>Advanced Search</span></a></div>
+<input name='category' value='ALL' type='hidden'>
+</form>
+</td>
+</tr>
+</table>
+</div>
+				</div>
+				<!-- END WELCOME BOX -->
+			</div>
+		</div>
+		<!-- END HEADER -->
+		<!-- BEGIN CONTENT -->
+		<div id="content">            
+			<!-- content columns -->
+			<div class="columns-border">
+            <div class="columns">
+				<!-- side bar -->
+				<div class="col-lg-2 col-md-2 col-sm-2 visible-lg-block visible-md-block visible-sm-block">
+                <div id="vp_leftsidebox"><div class="side-bar">
+<div class="sidebarcell">
+<div id="side_categories_title_17" class="title">
+<h2>MZB Brands</h2>
+</div>
+<div class="contentcell">
+<ul class="menulist">
+
+<li>
+  <a href="shopdisplaycategories.asp?id=8&amp;cat=Chase+%26+Sanborn">Chase &amp; Sanborn...</a><div id="leftsideboxcatnavcid8" class="submenulist"><ul class="menulist"><li><a href="shopdisplayproducts.asp?id=50&amp;cat=Special+Roast">Special Roast</a></li><li><a href="shopdisplayproducts.asp?id=49&amp;cat=Decaffeinated">Decaffeinated</a></li><li><a href="shopdisplayproducts.asp?id=215&amp;cat=Merchandise">Merchandise</a></li></ul></div>
+</li>
+
+<li>
+  <a href="shopdisplaycategories.asp?id=209&amp;cat=Krispy+Kreme+Doughnuts+Coffee">Krispy Kreme Doughnuts Coffee...</a><div id="leftsideboxcatnavcid209" class="submenulist"><ul class="menulist"><li><a href="shopdisplayproducts.asp?id=211&amp;cat=Smooth">Smooth</a></li><li><a href="shopdisplayproducts.asp?id=212&amp;cat=Rich">Rich</a></li><li><a href="shopdisplayproducts.asp?id=210&amp;cat=Decaffeinated">Decaffeinated</a></li></ul></div>
+</li>
+
+<li>
+  <a href="shopdisplaycategories.asp?id=217&amp;cat=Reveille+Coffee">Reveille Coffee...</a><div id="leftsideboxcatnavcid217" class="submenulist"><ul class="menulist"><li><a href="shopdisplayproducts.asp?id=219&amp;cat=Regular+Roast">Regular Roast</a></li><li><a href="shopdisplayproducts.asp?id=218&amp;cat=Dark+Roast">Dark Roast</a></li><li><a href="shopdisplayproducts.asp?id=220&amp;cat=Decaf">Decaf</a></li></ul></div>
+</li>
+
+<li>
+  <a href="shopdisplayproducts.asp?id=2&amp;cat=Segafredo+Zanetti">Segafredo Zanetti</a>
+</li>
+
+</ul>
+<hr align="left" width="170" style="color:#9d1318;">
+<ul class="menulist">
+<li style='padding-bottom:10px;'><a href="http://shopmzb.com/chockfullonuts_com/Shop/default.asp">Chock full o'Nuts</a></li>
+<li style='padding-bottom:10px;'><a href="http://shopmzb.com/hillsbros_com/shop/">Hills Bros.</a></li>
+<li style='padding-bottom:10px;'><a href="http://shopmzb.com/hillsbros_cap_com/Shop/">Hills Bros. Cappuccino</a></li>
+<li style='padding-bottom:10px;'><a href="http://shopmzb.com/hillsbros_com/shop/shopdisplaycategories.asp?id=15">Hills Bros. Premium</a></li>
+<li style='padding-bottom:10px;'><a href="http://shopmzb.com/mzb_usa_com/kauaistore/">Kauai Coffee</a></li>
+<li style='padding-bottom:10px;'><a href="http://shopmzb.com/mjbcoffee_com/Shop/">MJB</a></li>
+
+</ul>
+</div>
+</div>
+<div class="sidebarcell">
+<div id="side_freetext_title_204" class="title">
+<h2>Information</h2>
+</div>
+<div class="contentcell">
+<div class="sidefreetext" ><a href="default.asp">Home</a><br />
+<a href="shopcustadmin.asp">My Account</a><br />
+<a href="shopcontent.asp?type=Aboutus">About Us</a><br />
+<a href="shopcontent.asp?type=FAQ">FAQs</a><br />
+<a href="shopcustcontact.asp">Contact Us</a><br />
+<a href="shopcontent.asp?type=shipping">Shipping & Returns</a><br />
+<a href="shopcontent.asp?type=terms">Terms & Conditions</a><br />
+<a href="shopcontent.asp?type=privacy">Privacy </a>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+				</div>
+				<!-- main content -->
+				<div class="col-lg-8 col-md-8 col-sm-10 col-xs-12">
+				<div id="main" class="container-fluid">
+				<!-- END SHOPPAGE_HEADER.HTM --><div class="breadcrumb"><a href="default.asp"> Home </a>&nbsp;:&nbsp;Shipping &amp; Returns</div>
+<h1>Shipping &amp; Returns</h1>
+<div id="contentpage">
+			
+	
+	
+	
+	
+	
+<p style="margin: 0in 0in 0pt;" class="MsoNormal"><strong><span style="font-family: Arial;"><span style="font-size: 12pt; line-height: 115%;">Shipping</span><span style="font-size: 16px; line-height: 18.4px;"><br />
+				</span></span></strong><span style="font-family: Arial, sans-serif; font-size: 10pt; line-height: 115%; background-color: white;">UPS Ground is currently
+our only shipping method offered. UPS can only deliver to a street address. NO
+PO BOXES. Orders are shipped within two (2) business days from the time the
+order is placed. Arrival times vary according to destination.</span></p>
+<p style="font-family: Arial; font-size: 10pt; margin: 0in 0in 10pt;" class="MsoNormal">
+
+</p>
+<p class="MsoNormal" style="font-family: Arial; font-size: 10pt; background-image: initial; background-attachment: initial; background-color: white; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="font-size: 10pt; line-height: 115%; font-family: Arial, sans-serif;">If you order
+several cases, they may not arrive in the same shipping box. If you receive a box
+and it does not contain everything you ordered, check the shipping label for
+number of boxes. The remaining cases may be arriving separately.<br />
+		
+<br />
+		
+Because we value your feedback, we hope to offer other shipping methods in the
+future.
+		<o:p></o:p></span></p>
+	
+	
+	
+	
+	
+<p style="font-family: Arial; font-size: 10pt; margin: 0in 0in 0pt;" class="MsoNormal"><span style="LINE-HEIGHT: 115%; FONT-SIZE: 12pt; mso-bidi-font-size: 11.0pt"><span style="LINE-HEIGHT: 115%; FONT-SIZE: 12pt; mso-bidi-font-size: 11.0pt"></span></span></p>
+	
+	
+	
+	
+	
+<p style="font-family: Arial; font-size: 10pt; margin: 0in 0in 0pt;" class="MsoNormal"><span style="LINE-HEIGHT: 115%; FONT-SIZE: 12pt; mso-bidi-font-size: 11.0pt"><strong>Shipping Charge</strong></span></p>
+	
+	
+	
+	
+	
+<p style="font-family: Arial; font-size: 10pt; margin: 0in 0in 10pt;" class="MsoNormal"><span style="font-size: 10pt; line-height: 115%; font-family: Arial, sans-serif;">Shipping charges are
+automatically calculated and set by UPS using the total weight of product in
+your order and shipping address. You will always have an opportunity to see the
+full amount of your purchase with the shipping charge before you confirm your order.</span></p>
+	
+	
+	
+	
+	
+<p style="font-family: Arial; font-size: 10pt; margin: 0in 0in 0pt;" class="MsoNormal"><span style="LINE-HEIGHT: 115%; FONT-SIZE: 12pt; mso-bidi-font-size: 11.0pt"><strong>Canadian Shipping</strong></span></p>
+	
+	
+	
+	
+	
+<p style="font-family: Arial; font-size: 10pt; margin: 0in 0in 0pt;" class="MsoNormal"><span style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt">Massimo Zanetti Beverage USA has contracted with <span style="FONT-WEIGHT: bold">UPS</span> for all shipments to its customers in Canada. All orders will be sent using <span style="FONT-WEIGHT: bold">UPS Standard</span> to/from Canada. <br />
+		
+			
+			
+			
+			
+			<br />
+		
+			
+			
+			
+			
+			<span style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt">UPS can only deliver to a street address. NO PO BOXES. Shipping charges will be paid through this on-line store. You will always have an opportunity to see the full amount of your purchase including the shipping charge before you confirm your order. <br />
+			
+				
+				
+				
+				
+				</span><br />
+		
+			
+			
+			
+			
+			Canada Customs requires Canadian recipients to pay applicable duties and taxes on each shipment entering Canada. These charges may include PST, GST, HST, duties and other taxes of goods (e.g. excise tax). A brokerage fee may also be charged to process shipments and present the requisite customs paperwork to Canada Customs on the importer's behalf. <br />
+		
+			
+			
+			
+			
+			<br />
+		
+			
+			
+			
+			
+			Your order will be shipped under UPS's e-Tailer Brokerage Program (eBP), where eligible shipments imported into Canada for non-commercial purposes and valued under CAD$ 200 shipped via UPS Standard service are subject to a reduced brokerage fee of CAD$ 10, plus any applicable duties and taxes. Shipments valued at CAD$ 200 and above and/or being imported to Canada for commercial purposes and/or subject to specialized clearance may incur additional fees. <br />
+		
+			
+			
+			
+			
+			<br />
+		
+			
+			
+			
+			
+			Please, be aware that UPS will request payment of these charges at the time of delivery. You have the ability to call UPS ahead of time (1-800-742-5877) to pay these charges, eliminating the need for payment on delivery.<br />
+		
+			
+			
+			
+			
+			<br />
+		
+			
+			
+			
+			
+			All shipping charges, customs fees, brokerage fees and any other delivery fees associated with delivery of an order are the responsibility of the customer. Customers must agree to these terms prior to finalizing their order. Shipping charges do not include customs fees, brokerage fees or any other associated fees, all of which are the sole responsibility of the customer at time of delivery. The customer is responsible for any return shipping charges, if applicable. 
+			
+			
+			
+			
+			
+		<o:p></o:p></span></p><span style="font-family: Arial; font-size: 12pt; line-height: 115%;"><br />
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<p style="MARGIN: 0in 0in 0pt" class="MsoNormal"><strong>UPS Guarantees and Notices 
+				
+				
+				
+				
+				
+			<o:p></o:p></strong></p></span>
+	
+	
+	
+	
+	
+<p style="font-family: Arial; font-size: 10pt; margin: 0in 0in 10pt;" class="MsoNormal"><span style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt">Subject to the Tariff/Terms and Conditions of Service, UPS guarantees on-schedule delivery of packages shipped via UPS's services listed as guaranteed, or will refund your transportation charges. Guaranteed Service is not available in all locations and scheduled business days and delivery schedules are revised occasionally due to changes in distribution and volume. Service to some remote areas also may require additional delivery days. For current delivery schedules, service availability and information, and a description of the UPS Service Guarantee, see the UPS Rate and Service Guide. Certain commodities and high value shipments may require additional transit time for customs clearance. 
+			
+			
+			
+			
+			
+		<o:p></o:p></span></p>
+	
+	
+	
+	
+	
+<p style="font-family: Arial; font-size: 10pt; margin: 0in 0in 10pt;" class="MsoNormal"><span style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt">Please Note: Shipping rates are based on the information you have supplied. Shipping rates do not include duties, taxes, or other non-routine customs brokerage charges. Other shipping charges, surcharges, or accessorial charges also may apply. Rates are based on UPS published rates. Please see the UPS Rate and Service Guide or the applicable service and rate guide in your jurisdiction for details. 
+			
+			
+			
+			
+			
+		<o:p></o:p></span></p>
+	
+	
+	
+	
+	
+<p style="font-family: Arial; font-size: 10pt; margin: 0in 0in 0pt;" class="MsoNormal"><span style="LINE-HEIGHT: 115%; FONT-SIZE: 12pt; mso-bidi-font-size: 11.0pt"><strong>International Shipping 
+				
+				
+				
+				
+				
+			<o:p></o:p></strong></span></p>
+	
+	
+	
+	
+	
+<p style="font-family: Arial; font-size: 10pt; margin: 0in 0in 10pt;" class="MsoNormal"><span style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt">Currently we only ship to Canada and APO/FPO addresses. Due to the cost to ship outside North America; we are not able to ship to other countries at this time. If you live in a country outside the US and Canada, you might like to try </span><a href="http://www.myamericanshopper.com "><span style="LINE-HEIGHT: 115%; COLOR: #175d7f; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt">www.myamericanshopper.com</span></a><span style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt"> to see if they can assist you with purchasing and shipping our product. <span style="font-style: italic;">Please note that when you enter a link outside of our web store, Massimo Zanetti Beverage USA bears no liability for the contents thereof. 
+				
+				
+				
+				
+				
+			<o:p></o:p></span></span></p>
+	
+	
+	
+	
+	
+<p style="font-family: Arial; font-size: 10pt; margin: 0in 0in 0pt;" class="MsoNormal"><strong><span style="LINE-HEIGHT: 115%; FONT-SIZE: 12pt; mso-bidi-font-size: 11.0pt">APO/FPO</span>
+			
+			
+			
+			
+			
+		<o:p></o:p></strong></p>
+	
+	
+	
+	
+	
+<p style="font-family: Arial; font-size: 10pt; margin: 0in 0in 10pt;" class="MsoNormal"><span style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt">In support of our troops, we will ship to APO/FPO boxes. Please follow the directions listed below or feel free to contact us at 888-246-2598. 
+			
+			
+			
+			
+			
+		<o:p></o:p></span></p>
+	
+	
+	
+	
+	
+<p style="font-family: Arial; font-size: 10pt; margin: 0in 0in 10pt;" class="MsoNormal"><span style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt">Directions to ship product to APO/FPO boxes: 
+			
+			
+			
+			
+			
+		<o:p></o:p></span></p>
+	
+	
+	
+	
+	
+<ul dir="ltr" style="font-family: Arial; font-size: 10pt;">
+		
+		
+		
+		
+		
+	<li><span style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt">Create an account, making sure that the "Customer Information" is the same address used for your credit card billing statement. 
+				
+				
+				
+				
+				
+			<o:p></o:p></span>
+			
+			
+			
+			
+			
+		<div>&nbsp;</div></li>
+		
+		
+		
+		
+		
+	<li><span style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt">When prompted for the "Ship to address," enter 1200 Court Street, Portsmouth, VA 23704. This address is our warehouse and will inform the shipping clerk the order needs to be brought to the front office for shipping. 
+				
+				
+				
+				
+				
+			<o:p></o:p></span>
+			
+			
+			
+			
+			
+		<div>&nbsp;</div></li>
+		
+		
+		
+		
+		
+	<li><span style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt">In the comments section of your order form, please provide the APO/FPO address we are shipping to.&nbsp;<br />
+			
+				
+				
+				<br />
+			
+				
+				
+				</span></li>
+		
+		
+		
+	<li><span style="font-size: 10pt; line-height: 115%;">Customers will be charged the UPS shipping fees as calculated within the shopping cart. Postal rates are actually more and Massimo Zanetti Beverage pays the difference.&nbsp;</span><span style="font-size: 10pt; line-height: 115%;">We appreciate all that our troops do make our country safe.</span></li>
+	
+	
+	
+</ul><span style="font-family: Arial; font-size: 10pt; line-height: 115%;">
+		
+		
+		
+		
+		
+	<p style="MARGIN: 0in 0in 0pt" class="MsoNormal"><span style="LINE-HEIGHT: 115%; FONT-SIZE: 12pt; mso-bidi-font-size: 11.0pt"><strong>Address Verification</strong></span>
+			
+			
+			
+			
+			
+		<o:p></o:p></p>
+		
+		
+		
+		
+		
+	<p style="MARGIN: 0in 0in 10pt" class="MsoNormal"><span style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt">Please verify your shipping and billing addresses as you place your order. If a shipment is undeliverable as addressed or returned to MZB due to our error we will assume any additional shipping charges. If a shipment is undeliverable or returned to MZB due to incorrect address input by the customer, the customer is responsible for any additional shipping and handling fees incurred as a result of reshipment. Additional shipping and handling fees must be paid in full before order can be reshipped.</span></p>
+		
+		
+		
+		
+		
+	<o:p></o:p></span>
+	
+	
+	
+	
+	
+<p style="font-family: Arial; font-size: 10pt; margin: 0in 0in 0pt;" class="MsoNormal"><span style="LINE-HEIGHT: 115%; FONT-SIZE: 12pt; mso-bidi-font-size: 11.0pt"><strong>Customer Satisfaction and Return Policy</strong></span>
+		
+		
+		
+		
+		
+	<o:p></o:p></p>
+	
+	
+	
+	
+	
+<p style="font-family: Arial; font-size: 10pt; margin: 0in 0in 10pt;" class="MsoNormal"><span style="line-height: 115%; font-size: 10pt; mso-bidi-font-size: 11.0pt">We at Massimo Zanetti Beverage USA take great pride in our product and are committed to consumer satisfaction. We make every effort to fill and deliver your order accurately. If you receive the wrong product, please contact our Customer Service Department at 888-246-2598 or email </span><a href="mailto:ecommerce@mzb-usa.com">ecommerce@mzb-usa.com</a>. If you received the correct product, but are not satisfied, please return it to our Customer Service Department within 45 days from the original order date for refund or replacement product. Refunds will be applied to your credit card or Paypal account within 2 weeks following product return. Shipping fees are not refundable. Our return policy does not allow for refunds on products returned after this 45-day window.</p>
+
+
+
+
+
+<p class="MsoNormal">
+	
+	
+	
+	
+	
+	<o:p></o:p></p><span style="FONT-FAMILY: Arial; FONT-SIZE: 10pt">
+	
+	
+	
+	
+	
+	<p style="MARGIN: 0in 0in 10pt" class="MsoNormal"><span style="font-size: 10pt; line-height: 115%; mso-bidi-font-size: 11.0pt">If you would like your product exchanged you are responsible for any additional shipping fees incurred due to shipping the new product. Our return policy does not allow for refunds on products returned after this 45-day window.</span></p></span>
+
+
+
+
+
+<p class="MsoNormal">
+	
+	
+	
+	
+	
+	<o:p></o:p></p><span style="font-family: Arial;">
+	
+	
+	
+	
+	
+	<p style="font-size: 10pt; margin: 0in 0in 10pt;" class="MsoNormal"><span style="font-size: 10pt; line-height: 115%; mso-bidi-font-size: 11.0pt">In order to receive your refund, please follow the steps below:</span></p>
+	
+	
+	
+	
+	
+	<p class="MsoNormal" style="font-size: 10pt;">
+		
+		
+		
+		
+		
+		<o:p></o:p></p>
+	
+	
+	
+	
+	
+	<p class="MsoNormal" style="font-size: 10pt;">1. Contact our Customer Service Department at 1-888-246-2598 or email <a href="mailto:ecommerce@mzb-usa.com">ecommerce@mzb-usa.com</a> to notify us that you will be returning all or a portion of your order. 
+		
+		
+		
+		
+		
+		<o:p></o:p></p>
+	
+	
+	
+	
+	
+	<p class="MsoNormal" style="font-size: 10pt;">2. Include a copy of the Bill of Lading (BOL); indicate the reason for your return on the back of your BOL. 
+		
+		
+		
+		
+		
+		<o:p></o:p></p>
+	
+	
+	
+	
+	
+	<p class="MsoNormal" style="font-size: 10pt;">3. Secure product in original packaging, if available. If not available, protect product well in sturdy shipping box. 
+		
+		
+		
+		
+		
+		<o:p></o:p></p>
+	
+	
+	
+	
+	
+	<p class="MsoNormal" style="font-size: 10pt;">4. Return unopened merchandise in "as new” condition by pre-paid mail, as indicated below. We recommend returns are sent via insured mail carrier (such as UPS, Fed Ex, or US Postal Mail with an insurance option) to guarantee receipt of your package. 
+		
+		
+		
+		
+		
+		<o:p></o:p></p>
+	
+	
+	
+	
+	
+	<p class="MsoNormal" style="font-size: 10pt;">5. Customer Service Address: 
+		
+		
+		
+		
+		
+		<o:p></o:p></p>
+	
+	
+	
+	
+	
+	<p class="MsoNormal" style="font-size: 10pt;">Massimo Zanetti Beverage USA<br />
+		
+		
+		
+		
+		
+		E-Commerce Department<br />
+		
+		
+		
+		
+		
+		1200 Court Street<br />
+		
+		
+		
+		
+		
+		<span style="font-size: 10pt;">Portsmouth, VA 23704</span></p>
+	
+	
+	
+	
+	
+	<p class="MsoNormal" style="font-size: 10pt;">
+		
+		
+		
+		
+		
+		<o:p></o:p></p>
+	
+	
+	
+	
+	
+	<p style="margin: 0in 0in 10pt;" class="MsoNormal"><strong><span style="font-size: 12pt; line-height: 115%;">Damages</span><span style="font-size: 16px; line-height: 18.4px;"><br />
+				
+				
+				
+				
+				
+				</span></strong><span style="font-size: 10pt; line-height: 115%;">If you receive damaged product, please hold on to all packaging and contact us at 1-888-246-2598. Inform Customer Service that your delivery was damaged in shipment and ask a claim to be filed. Please do not throw away any damaged goods until either a UPS claims adjuster has been in contact with you (if needed) or your replacement product has arrived. Once the claim has been approved by UPS, a replacement order will be processed at no additional charge.</span></p>
+	
+	
+	
+	
+	
+	<p style="font-size: 10pt; margin: 0in 0in 10pt;" class="MsoNormal"><span style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-bidi-font-size: 11.0pt">If your order has been severely damaged in transit you may refuse delivery and have the package returned to us to file a UPS claim and process a replacement order. </span></p></span>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p> 
+</div>
+				<!-- START SHOPPAGE_TRAILER.HTM -->
+								</div>
+				</div> 
+                <div class="col-lg-2 col-md-2 visible-lg-block visible-md-block">
+                	<div id="vp_rightsidebox"><div class="rightside-bar">
+<div class="sidefreetextnobox 352ft" ><div id="free-shipping"> Spend $100 or More on <br>
+  Products and Receive<br>
+  <span class="free">Free Shipping</span><br>
+  <img src="/mzb_usa_com/store/images/freeShippingBox.jpg" border="0"><br>
+  <span class="disclaimer">*excluding shipments to <br>
+  HI, AK, & Canada.</span> </div>
+
+</div>
+<div class="sidefreetextnobox 301ft" ><br /><br /><!-- BoldChat Live Chat Button HTML v4.00 (Type=Web,ChatButton=MZB Chat Button,Website=MZB) -->
+<div style="text-align: center; white-space: nowrap;"> <a href="https://livechat.boldchat.com/aid/697672610211716982/bc.chat?resize=true&cbdid=3586444453971015714&wdid=2806526051958288638" target="_blank" onclick="window.open((window.pageViewer && pageViewer.link || function(link){return link;})(this.href + (this.href.indexOf('?')>=0 ? '&' : '?') + 'url=' + escape(document.location.href)), 'Chat3412718178011852680', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;">
+  <div id="support"><script language="JavaScript" type="text/javascript"> var bccbId = Math.random(); document.write(unescape('<img alt="Live chat by BoldChat" src="https://www.shopmzb.com/mzb_usa_com/store/images/supportButton.png" id=' + bccbId + ' />')); var bccb = {id: bccbId, bdid: '3586444453971015714', rdid: null, type: 'chat'}; var _bcvma = _bcvma || []; if(window.pageViewer && pageViewer.addButton) pageViewer.addButton(button); else _bcvma.push(['addButton', bccb]);</script></div>
+  </a> </div>
+<!-- /BoldChat Live Chat Button HTML v4.00 --> </br>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+			</div>
+            <div class="clear"></div>
+            </div>
+		</div>
+		</div>
+		<!-- footer -->
+		<div id="footer">
+            <div id="vp_footer"><table cellpadding="0" cellspacing="0" width="100%" class="footertable">
+<tr>
+<td class="tdleft">&nbsp;</td>
+<td class="tdcenter">
+</td>
+<td class="tdright">&nbsp;</td>
+</tr>
+</table>
+<div class="bottom-row">
+</div>
+</div>
+		</div>
+	</div>
+	</div>
+	
+<script type="text/javascript">
+<!--
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-1243241-64', 'auto', {'allowLinker': true});
+	ga('require', 'linker');
+	ga('linker:autoLink', ['hillsbros.com', 'chockfullonuts.com', 'mjbcoffee.com', 'hillsbroscappuccino.com']);
+	ga('require', 'linkid', 'linkid.js');
+	ga('send', 'pageview');
+	
+-->
+</script>
+
+<script language="javascript" type="text/javascript">
+<!--
+/*
+Rewrite #anchor links for pages with BASE HREF 
+*/
+var anchors = document.getElementsByTagName("a");
+var basehref = document.getElementsByTagName("base")[0].href;
+var url = window.location.href;
+if(url.indexOf("#") > 0) url = url.substr(0, url.indexOf("#"));
+if(basehref) {
+   for(var i = 0; i < anchors.length; i++) {
+      var anchor = anchors[i];
+      poundPos = anchor.href.indexOf("/#");
+      if (poundPos > 0) {
+         anchor.href = url + anchor.href.substr(poundPos + 1);
+      }
+   }
+}
+-->
+</script>
+</body>
+</html>

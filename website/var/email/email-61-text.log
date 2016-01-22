@@ -1,0 +1,14 @@
+Dear Customer, thank you for your order. Please bare in mind, that this is
+a demo system so no actual order has been created.  email.contact-data
+user.firstname test user.lastname test user.email test@test.com email.cart
+cart cart.productnamecheckout.cart.productno cart.unitprice cart.quantity
+cart.totalprice Emerson uxarticleno: 10615 9.71 1 9.71 Arium 1articleno:
+9153 99.95 2 179.91 cart.subtotal â¬Â 189,62 cart.grandtotal
+â¬Â 189,62 checkout.order-information checkout.delivery-address test
+test test 1234 test checkout.your-ordernumber ord_554b239a7483a © 2013
+pimcore GmbH, www.pimcore.org
+  
+Debug Information:  
+  
+To: test@test.com ()
+Cc: thomas.ballmann@elements.at ()

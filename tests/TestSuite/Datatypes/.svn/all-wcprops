@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/TestSuite/Datatypes
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/TestSuite/Datatypes/AllTests.php
+END
+KeyValueTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/TestSuite/Datatypes/KeyValueTest.php
+END

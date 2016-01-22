@@ -1,0 +1,17 @@
+Dear Customer, thank you for your order. Please bare in mind, that this is
+a demo system so no actual order has been created.  email.contact-data
+user.firstname user.lastname user.email email.cart cart
+cart.productnamecheckout.cart.productno cart.unitprice cart.quantity
+cart.totalprice Chicago Stability Womenarticleno: 2168 811.35 1 811.35
+Elexir III Womenarticleno: 2110 628.78 1 628.78 OZ Pro Womenarticleno: 2198
+60.69 1 60.69 cart.subtotal â¬Â 1.500,82
+shop.cart.modificationshipping â¬Â 5,90
+shop.cart.modificationcart-discount -â¬Â 150,08 cart.grandtotal
+â¬Â 1.356,64 checkout.order-information checkout.delivery-address
+checkout.your-ordernumber ord_5559fd77e2ae5 © 2013 pimcore GmbH,
+www.pimcore.org
+  
+Debug Information:  
+  
+To: 
+Cc: thomas.ballmann@elements.at ()

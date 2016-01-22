@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Parser.php
+END
+ProcessListenerI.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/ProcessListenerI.php
+END
+BuilderI.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/BuilderI.php
+END
+Token.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Token.php
+END
+TokenizerI.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/TokenizerI.php
+END
+ConstantsI.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/ConstantsI.php
+END
+VisitorI.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/VisitorI.php
+END
+Autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Autoload.php
+END

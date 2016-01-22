@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Parser
+END
+VersionAllParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Parser/VersionAllParser.php
+END
+SymbolTable.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Parser/SymbolTable.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Parser/Exception.php
+END
+TokenException.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Parser/TokenException.php
+END
+TokenStreamEndException.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Parser/TokenStreamEndException.php
+END
+UnexpectedTokenException.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Parser/UnexpectedTokenException.php
+END
+MissingValueException.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Parser/MissingValueException.php
+END
+InvalidStateException.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Parser/InvalidStateException.php
+END
+TokenStack.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Parser/TokenStack.php
+END

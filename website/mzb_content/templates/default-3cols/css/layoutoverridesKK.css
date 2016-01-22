@@ -1,0 +1,44 @@
+body {
+	background-color:#F8F6ED;
+}
+#header #searchbtn {
+	background-color:#008158;
+	background-image:none;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	font-weight:bold;
+}
+#header #keywordinputfld {
+	border: none;
+}
+.sidebarcell .contentcell ul.menulist a {
+	background: url("../images/bulletkk.jpg") no-repeat scroll 0 3px rgba(0, 0, 0, 0);
+}
+#header #adsearchlink {
+	font-size:10px;
+}
+.sidebarcell .contentcell .menulist .submenulist li a {
+	background: url("../images/bulletkk.jpg") no-repeat scroll 0 3px rgba(0, 0, 0, 0);
+}
+.free {
+	color: #1F805B;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#free-shipping IMG {
+	/*display: block;*/
+  -moz-box-sizing: border-box;
+	box-sizing: border-box;
+	background: url("../images/kkshipbox.jpg") no-repeat;
+	width: 113px; /* Width of new image */
+	height: 109px; /* Height of new image */
+	padding-left: 113px; /* Equal to width of new image */
+}
+#support IMG {
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	background: url("../images/kkquestions.png") no-repeat;
+	width: 154px; /* Width of new image */
+	height: 90px; /* Height of new image */
+	padding-left: 154px; /* Equal to width of new image */
+}

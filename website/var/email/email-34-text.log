@@ -1,0 +1,14 @@
+Dear Customer, thank you for your order. Please bare in mind, that this is
+a demo system so no actual order has been created.  Contact Data Firstname
+Demo Lastname User E-Mail demo@pimcore.org Cart cart
+ProductnameProductnumber Price Quantity Total Elexir III Womenarticleno:
+2110 628.78 1 628.78 Subtotal Â£628.78 shop.cart.modificationshipping
+Â£55.90 shop.cart.modificationcart-discount -Â£62.88 Grandtotal
+Â£621.80 Order Information Delivery address Demo User HomestraÃe 5
+5020 Salzburg Austria Your Ordernumber ord_5253ba1515843 © 2013 pimcore
+GmbH, www.pimcore.org
+  
+Debug Information:  
+  
+To: demo@pimcore.org
+Cc: thomas.ballmann@elements.at

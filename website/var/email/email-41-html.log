@@ -1,0 +1,184 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style type="text/css">
+            /* Reset  */
+        body { background-color: #ffffff; margin: 0; padding: 0; font-family: Arial; font-size: 14px; color: #252525; }
+        img { outline: none; text-decoration: none; display: block;}
+        /*br, strong br, b br, em br, i br { line-height:100%; }*/
+        h1, h2, h3, h4, h5, h6 { line-height: 100% !important; -webkit-font-smoothing: antialiased; }
+        h1 { font-size: 18px; }
+        h2 { font-size: 15px; }
+        h1, h2 { text-transform: uppercase; font-weight: bold; color: #1FA6E0; }
+        h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: #000000 !important; }
+        table td, table tr { border-collapse: collapse; }
+        table td { vertical-align: middle; padding: 10px; }
+        #main-table td { padding: 0; }
+        table td a { color: #1FA6E0; text-decoration: none;  }
+        table td.vmiddle { vertical-align: middle; padding: 10px 5px 0 5px; }
+        table tr th { background-color: #f0f0f0; color: #596068; font-weight: normal; padding: 5px;  }
+        table tr th small { font-size: 10px; }
+        .bold {font-weight: bold;}
+        /*p { line-height: 30px; margin-bottom: 40px; }*/
+        p { margin-bottom: 10px; }
+        tr.odd {background: #f3f3f3;}
+        #main-table {
+            position: relative;
+            margin: 20px auto;
+            padding: 0;
+            background-repeat: no-repeat;
+            background-position: 0 0;
+        }
+        table.content-table {
+            border: none;
+            position: relative;
+            margin: 0 auto;
+        }
+        table.content-table.no-border {
+            border: none;
+            position: relative;
+            padding: 10px;
+        }
+        #footer {
+            position: relative;
+            margin: 0 auto;
+            font-size: 12px;
+        }
+        table td.left {
+            text-align: left;
+            padding-left: 50px;
+            padding-top: 5px;
+        }
+        table td.orange {
+            color: #1FA6E0;
+            font-weight: bold;
+            text-transform: uppercase;
+            padding:  15px 10px;
+        }
+        #footer tr td { font-size: 12px; }
+        #productsOverview tr td { background-color: #e9eaea; border-bottom: 1px solid #fff; }
+
+    </style>
+</head>
+
+<body>
+<table cellpadding="0" id="main-table" cellspacing="0" border="0"  width="700">
+    <tr>
+        <td width="700" height="96" style="padding:0;">
+            <img src="http://demo.pim.elements.pm/static/images/logo.png" />
+        </td>
+    </tr>
+</table>
+
+
+<table width="700" class="content-table no-border" border="0" cellpadding="5" cellspacing="0">
+    <tr>
+        <td>
+            <div id="cke_pastebin"><span style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-size: medium;">Dear Customer,</span></div>
+
+<div><span style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-size: medium;">thank you for your order.</span></div>
+
+<div><span style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-size: medium;">Please bare in mind, that this is a demo system so no actual order has been created.&nbsp;</span></div>
+        </td>
+    </tr>
+
+</table>
+
+<table width="700" class="content-table" border="0" cellpadding="2" cellspacing="0">
+    <tr>
+        <td align="left" valign="middle" bgcolor="#ffffff"  class="orange" colspan="2" style="color:#596068;font-weight: bold; text-transform: uppercase;">Contact Data</td>
+
+    </tr>
+    <tr>
+        <td align="left" valign="top" style="vertical-align: middle;" bgcolor="#f3f3f3" width="200" class="left" >Firstname</td>
+        <td bgcolor="#f3f3f3" class="left">christian</td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle" bgcolor="#FFFFFF" class="left">Lastname</td>
+        <td bgcolor="#FFFFFF" class="left">fasching</td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle" bgcolor="#f3f3f3" class="left">E-Mail</td>
+        <td bgcolor="#f3f3f3" class="left"><a href="mailto:christian.fasching@elements.at">christian.fasching@elements.at</a></td>
+    </tr>
+</table>
+
+
+
+
+
+<table width="700" class="content-table" border="0" cellpadding="2" cellspacing="0">
+    <tr>
+        <td align="left" valign="middle" bgcolor="#ffffff" class="orange" colspan="4" style="padding-top: 10px; color:#596068;font-weight: bold; text-transform: uppercase;">Cart cart</td>
+    </tr>
+
+    <tr>
+        <th align="left" style="padding-left: 10px;" width="180">Productname<br/><small>Productnumber</small></th>
+        <th width="100">Price</th>
+        <th width="60">Quantity</th>
+        <th width="100">Total</th>
+    </tr>
+
+
+        <tr>
+        <td align="left" style="color: #1FA6E0; font-size: 12px;"><a href="http://demo.pim.elements.pm/">Hula wms</a><br/><span style="color:#252525;">articleno: 10443</span></td>
+        <td align="center"><strong>45.95</strong></td>
+        <td align="center"><strong>1</strong></td>
+        <td align="center"><strong>45.95</strong></td>
+    </tr>
+    
+    <tr>
+        <td style="border-top: 1px solid #1FA6E0;" align="right" colspan="3"><strong>Subtotal</strong></td>
+        <td style="border-top: 1px solid #1FA6E0;font-size: 12px;" align="center" ><strong>£45.95</strong></td>
+    </tr>
+
+
+            <tr>
+            <td style="" align="right" colspan="3">Shipping</td>
+            <td style="font-size: 12px;" align="center" >£55.90</td>
+        </tr>
+    
+    <tr>
+        <td style="border-top: 1px solid #1FA6E0;" align="right" colspan="3"><strong>Grandtotal</strong></td>
+        <td style="border-top: 1px solid #1FA6E0;font-size: 18px; color: #596068;" align="center" ><strong>£101.85</strong></td>
+    </tr>
+
+    
+
+</table>
+
+<!-- VERSANDINFOS -->
+
+<table width="700" class="content-table" border="0" cellpadding="2" cellspacing="0">
+    <tr>
+        <td align="left" valign="middle" bgcolor="#ffffff"  class="orange" colspan="2" style="color:#596068;font-weight: bold; text-transform: uppercase;">Order Information</td>
+
+    </tr>
+    <tr>
+        <td align="left" valign="top" style="padding-top:5px; vertical-align: top;" bgcolor="#f3f3f3" width="200" class="left"><strong>Delivery address</strong></td>
+        <td bgcolor="#f3f3f3" class="left">
+            christian fasching<br/>
+            24234<br/>
+            234 234 sadsad sad<br/>
+            <br/>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle" bgcolor="#f3f3f3" class="left"><strong>Your Ordernumber</strong></td>
+        <td bgcolor="#f3f3f3" class="left">ord_53faf8673e4bf</td>
+    </tr>
+    <!--<tr>
+        <td align="center" valign="middle" bgcolor="#f3f3f3" class="left"><strong>Order Comment</strong></td>
+        <td bgcolor="#f3f3f3" class="left"></td>
+    </tr>-->
+</table>
+
+<table cellpadding="10" id="footer" cellspacing="0" border="0"  width="700">
+    <tr>
+        <td valign="center" align="left">&copy; 2013 <strong>pimcore GmbH</strong>, <a target="_blank" href="http://www.pimcore.org">www.pimcore.org</a></td>
+    </tr>
+
+</table>
+</body>
+</html>

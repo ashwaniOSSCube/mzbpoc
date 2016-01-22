@@ -1,0 +1,13 @@
+[10-Apr-2013 07:52:39 UTC] PHP Fatal error:  Class 'OnlineShop_Framework_Impl_Pricing_Environment' not found in /plugins/onlineshop/www/plugins/OnlineShop/tests/OnlineShop/Framework/Pricing/Condition/DateRangeTest.php on line 27
+[10-Apr-2013 07:52:39 UTC] PHP Stack trace:
+[10-Apr-2013 07:52:39 UTC] PHP   1. {main}() /usr/bin/phpunit:0
+[10-Apr-2013 07:52:39 UTC] PHP   2. PHPUnit_TextUI_Command::main() /usr/bin/phpunit:527
+[10-Apr-2013 07:52:39 UTC] PHP   3. PHPUnit_TextUI_Command->run() phar:///usr/bin/phpunit/PHPUnit/TextUI/Command.php:129
+[10-Apr-2013 07:52:39 UTC] PHP   4. PHPUnit_TextUI_TestRunner->doRun() phar:///usr/bin/phpunit/PHPUnit/TextUI/Command.php:176
+[10-Apr-2013 07:52:39 UTC] PHP   5. PHPUnit_Framework_TestSuite->run() phar:///usr/bin/phpunit/PHPUnit/TextUI/TestRunner.php:346
+[10-Apr-2013 07:52:39 UTC] PHP   6. PHPUnit_Framework_TestSuite->run() phar:///usr/bin/phpunit/PHPUnit/Framework/TestSuite.php:705
+[10-Apr-2013 07:52:39 UTC] PHP   7. PHPUnit_Framework_TestSuite->runTest() phar:///usr/bin/phpunit/PHPUnit/Framework/TestSuite.php:745
+[10-Apr-2013 07:52:39 UTC] PHP   8. PHPUnit_Framework_TestCase->run() phar:///usr/bin/phpunit/PHPUnit/Framework/TestSuite.php:775
+[10-Apr-2013 07:52:39 UTC] PHP   9. PHPUnit_Framework_TestResult->run() phar:///usr/bin/phpunit/PHPUnit/Framework/TestCase.php:776
+[10-Apr-2013 07:52:39 UTC] PHP  10. PHPUnit_Framework_TestCase->runBare() phar:///usr/bin/phpunit/PHPUnit/Framework/TestResult.php:648
+[10-Apr-2013 07:52:39 UTC] PHP  11. OnlineShop_Framework_Pricing_Condition_DateRange_Test->setUp() phar:///usr/bin/phpunit/PHPUnit/Framework/TestCase.php:828

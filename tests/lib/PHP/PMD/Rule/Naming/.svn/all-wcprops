@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Naming
+END
+ConstantNamingConventions.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Naming/ConstantNamingConventions.php
+END
+ConstructorWithNameAsEnclosingClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Naming/ConstructorWithNameAsEnclosingClass.php
+END
+BooleanGetMethodName.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Naming/BooleanGetMethodName.php
+END
+ShortMethodName.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Naming/ShortMethodName.php
+END
+LongVariable.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Naming/LongVariable.php
+END
+ShortVariable.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Naming/ShortVariable.php
+END

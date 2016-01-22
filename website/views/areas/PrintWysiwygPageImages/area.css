@@ -1,0 +1,33 @@
+
+.pimcore_area_PrintWysiwygPageImages .contenttype.wysiwyg .contentblock .content {
+    text-align: justify;
+    float: left;
+    width: 11cm;
+}
+
+.pimcore_area_PrintWysiwygPageImages .contenttype.wysiwyg .contentblock .content p {
+    hyphens: auto;
+    margin-top: 0;
+}
+
+.pimcore_area_PrintWysiwygPageImages .contenttype.wysiwyg .images {
+   /* clear: right; */
+    float: right;
+
+}
+
+.pimcore_area_PrintWysiwygPageImages .contenttype.wysiwyg .images .image {
+    margin-bottom: 5mm;
+    text-align: right;
+}
+
+.pimcore_area_PrintWysiwygPageImages .contenttype.wysiwyg .images .image img {
+    height: auto;
+    max-height: 7cm;
+    max-width: 7cm;
+    width: auto;
+}
+
+.pimcore_area_PrintWysiwygPageImages .contentblock .clear {
+    clear: both;
+}

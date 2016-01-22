@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Functions
+END
+FunctionDeclarationArgumentSpacingSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Functions/FunctionDeclarationArgumentSpacingSniff.php
+END
+FunctionDuplicateArgumentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Functions/FunctionDuplicateArgumentSniff.php
+END
+GlobalFunctionSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Functions/GlobalFunctionSniff.php
+END
+FunctionDeclarationSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Functions/FunctionDeclarationSniff.php
+END
+MultiLineFunctionDeclarationSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Functions/MultiLineFunctionDeclarationSniff.php
+END
+LowercaseFunctionKeywordsSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/Functions/LowercaseFunctionKeywordsSniff.php
+END

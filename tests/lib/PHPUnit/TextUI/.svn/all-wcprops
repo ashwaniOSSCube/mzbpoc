@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pimcore/!svn/ver/2741/private/core/trunk/tests/lib/PHPUnit/TextUI
+END
+TestRunner.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/TextUI/TestRunner.php
+END
+Command.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/TextUI/Command.php
+END
+ResultPrinter.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pimcore/!svn/ver/2741/private/core/trunk/tests/lib/PHPUnit/TextUI/ResultPrinter.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/PEAR/Docs/NamingConventions
+END
+ValidClassNameStandard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/PEAR/Docs/NamingConventions/ValidClassNameStandard.xml
+END
+ValidFunctionNameStandard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/PEAR/Docs/NamingConventions/ValidFunctionNameStandard.xml
+END

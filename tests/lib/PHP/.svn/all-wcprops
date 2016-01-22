@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP
+END
+Depend.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend.php
+END
+PMD.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD.php
+END
+Timer.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Timer.php
+END
+Token.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Token.php
+END
+CodeCoverage.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeCoverage.php
+END
+CodeSniffer.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer.php
+END

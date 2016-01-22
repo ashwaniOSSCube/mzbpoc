@@ -1,0 +1,15 @@
+hallo das ist eine nachricht fÃ¼r die besteller email.contact-data
+Firstname Thomas Lastname Ballmann E-Mail thomas.ballmann@elements.at
+email.cart cart Productnamecheckout.cart.productno Price Quantity Total
+Albany wmsarticleno: 9925 99.95 3 299.85 Cisco womenarticleno: 9469 59.95 1
+59.95 Subtotal Â£359.80 shop.cart.modificationshipping Â£0.00
+shop.cart.modificationtest2 -Â£35.98 Grandtotal Â£323.82
+checkout.order-information checkout.delivery-address Thomas Ballmann
+schallmooser hauptstraÃe 5020 Salzburg Austria checkout.your-ordernumber
+ord_51fb836e46227 checkout.order-comment © 2013 elements.at New Media
+Solutions GmbH, www.pimcore.org
+  
+Debug Information:  
+  
+To: thomas.ballmann@elements.at
+Cc: thomas.ballmann@elements.at

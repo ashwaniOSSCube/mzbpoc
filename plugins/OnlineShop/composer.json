@@ -1,0 +1,5 @@
+{
+    "require": {
+        "klarna/checkout": "1.2"
+    }
+}

@@ -1,0 +1,1 @@
+<?= $this->areablock("content", array("allowed"=>array("productgrid"))) ?>

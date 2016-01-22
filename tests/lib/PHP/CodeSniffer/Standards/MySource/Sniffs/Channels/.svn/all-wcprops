@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/MySource/Sniffs/Channels
+END
+ChannelExceptionSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/MySource/Sniffs/Channels/ChannelExceptionSniff.php
+END
+IncludeSystemSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/MySource/Sniffs/Channels/IncludeSystemSniff.php
+END
+UnusedSystemSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/MySource/Sniffs/Channels/UnusedSystemSniff.php
+END
+DisallowSelfActionsSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/MySource/Sniffs/Channels/DisallowSelfActionsSniff.php
+END

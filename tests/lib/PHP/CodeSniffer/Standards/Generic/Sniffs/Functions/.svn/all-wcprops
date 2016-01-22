@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Functions
+END
+FunctionCallArgumentSpacingSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Functions/FunctionCallArgumentSpacingSniff.php
+END
+CallTimePassByReferenceSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Functions/CallTimePassByReferenceSniff.php
+END
+OpeningFunctionBraceBsdAllmanSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Functions/OpeningFunctionBraceBsdAllmanSniff.php
+END
+OpeningFunctionBraceKernighanRitchieSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Functions/OpeningFunctionBraceKernighanRitchieSniff.php
+END

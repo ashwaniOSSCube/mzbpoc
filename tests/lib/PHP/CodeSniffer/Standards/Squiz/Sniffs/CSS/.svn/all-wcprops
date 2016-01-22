@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/CSS
+END
+MissingColonSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/CSS/MissingColonSniff.php
+END
+DuplicateStyleDefinitionSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/CSS/DuplicateStyleDefinitionSniff.php
+END
+ClassDefinitionClosingBraceSpaceSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/CSS/ClassDefinitionClosingBraceSpaceSniff.php
+END
+DisallowMultipleStyleDefinitionsSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/CSS/DisallowMultipleStyleDefinitionsSniff.php
+END
+ClassDefinitionOpeningBraceSpaceSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/CSS/ClassDefinitionOpeningBraceSpaceSniff.php
+END
+OpacitySniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/CSS/OpacitySniff.php
+END
+DuplicateClassDefinitionSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/CSS/DuplicateClassDefinitionSniff.php
+END
+IndentationSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/CSS/IndentationSniff.php
+END
+ColourDefinitionSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/CSS/ColourDefinitionSniff.php
+END
+LowercaseStyleDefinitionSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/CSS/LowercaseStyleDefinitionSniff.php
+END
+ColonSpacingSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/CSS/ColonSpacingSniff.php
+END
+ClassDefinitionNameSpacingSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/CSS/ClassDefinitionNameSpacingSniff.php
+END
+EmptyStyleDefinitionSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/CSS/EmptyStyleDefinitionSniff.php
+END
+SemicolonSpacingSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/CSS/SemicolonSpacingSniff.php
+END
+EmptyClassDefinitionSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/CSS/EmptyClassDefinitionSniff.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/config
+END
+testconfig-jenkins.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/config/testconfig-jenkins.xml
+END
+testconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/config/testconfig.xml
+END

@@ -1,0 +1,11 @@
+/**
+ * Standard Content Typ
+ * WYSIWYG
+ * -- only Text
+ */
+
+.pimcore_area_elements_wysiwyg {
+    display: block;
+    width: 100%;
+}
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Files
+END
+EndFileNoNewlineSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Files/EndFileNoNewlineSniff.php
+END
+EndFileNewlineSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Files/EndFileNewlineSniff.php
+END
+LineLengthSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Files/LineLengthSniff.php
+END
+OneInterfacePerFileSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Files/OneInterfacePerFileSniff.php
+END
+ByteOrderMarkSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Files/ByteOrderMarkSniff.php
+END
+OneClassPerFileSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Files/OneClassPerFileSniff.php
+END
+LineEndingsSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Files/LineEndingsSniff.php
+END

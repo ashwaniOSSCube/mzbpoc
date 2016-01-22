@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/resources/objects
+END
+brick-import.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/resources/objects/brick-import.xml
+END
+class-allfields.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/resources/objects/class-allfields.xml
+END
+minimal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/resources/objects/minimal.xml
+END
+fieldcollection-import.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/resources/objects/fieldcollection-import.xml
+END
+class-import.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/resources/objects/class-import.xml
+END

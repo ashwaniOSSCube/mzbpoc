@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD
+END
+RuleClassNotFoundException.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/RuleClassNotFoundException.php
+END
+RuleClassFileNotFoundException.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/RuleClassFileNotFoundException.php
+END
+AbstractRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/AbstractRenderer.php
+END
+AbstractRule.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/AbstractRule.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Parser.php
+END
+RuleViolation.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/RuleViolation.php
+END
+AbstractWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/AbstractWriter.php
+END
+Rule.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule.php
+END
+AbstractNode.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/AbstractNode.php
+END
+RuleSetFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/RuleSetFactory.php
+END
+Report.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Report.php
+END
+RuleSetNotFoundException.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/RuleSetNotFoundException.php
+END
+RuleSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/RuleSet.php
+END
+ParserFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/ParserFactory.php
+END
+ProcessingError.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/ProcessingError.php
+END

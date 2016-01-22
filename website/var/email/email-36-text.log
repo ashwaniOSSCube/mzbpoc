@@ -1,0 +1,14 @@
+Dear Customer, thank you for your order. Please bare in mind, that this is
+a demo system so no actual order has been created.  Contact Data Firstname
+Demo Lastname User E-Mail demo@pimcore.org Cart cart
+ProductnameProductnumber Price Quantity Total Boraarticleno: 10537 29.95 1
+26.955 Hannibal uxarticleno: 7368 50.94 1 50.94 Subtotal Â£77.90
+shop.cart.modificationshipping Â£55.90 Grandtotal Â£133.80 Order
+Information Delivery address Demo User Gusswerk Halle 6,
+SÃ¶llheimerstraÃe 16 5020 Salzburg Austria Your Ordernumber
+ord_5253bc64b1640 © 2013 pimcore GmbH, www.pimcore.org
+  
+Debug Information:  
+  
+To: demo@pimcore.org
+Cc: thomas.ballmann@elements.at

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeCoverage/Report/HTML/Renderer
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeCoverage/Report/HTML/Renderer/File.php
+END
+Directory.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeCoverage/Report/HTML/Renderer/Directory.php
+END
+Dashboard.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeCoverage/Report/HTML/Renderer/Dashboard.php
+END

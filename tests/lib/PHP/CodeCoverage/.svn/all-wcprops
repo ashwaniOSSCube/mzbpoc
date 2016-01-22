@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeCoverage
+END
+Driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeCoverage/Driver.php
+END
+Util.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeCoverage/Util.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeCoverage/Exception.php
+END
+Filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeCoverage/Filter.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeCoverage/Version.php
+END
+Autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeCoverage/Autoload.php
+END

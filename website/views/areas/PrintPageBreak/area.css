@@ -1,0 +1,5 @@
+.pagebreak-force-page-break {
+    border-bottom: 1px solid black;
+    page-break-after: always;
+    height: 10px;
+}

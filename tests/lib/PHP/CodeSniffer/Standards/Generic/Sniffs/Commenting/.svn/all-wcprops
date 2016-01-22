@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Commenting
+END
+TodoSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Commenting/TodoSniff.php
+END
+FixmeSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Generic/Sniffs/Commenting/FixmeSniff.php
+END

@@ -1,0 +1,147 @@
+/* Horizontal navigation */
+
+#nav {  
+	height:58px;
+	width:100%;
+}
+
+#nav .nav_left{
+	width:20px; background:url(../images/menu-bg-left.gif) no-repeat center top;
+}
+
+
+#nav .nav_right{
+	width:20px; background:url(../images/menu-bg-right.gif) no-repeat center top;
+}
+
+#nav .nav_center{
+	background:url(../images/menu-bg.gif) repeat-x center top;
+}
+
+table#horiz_nav {	/* table is generated via shopa_navigation_create.asp */
+	padding:0px;
+	width:100%;
+	border-collapse:collapse;
+}
+
+
+
+table#horiz_nav td {
+	text-align:left;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	padding:0px;
+}
+
+table#horiz_nav td a {
+	display:block;
+	text-align:center;
+	padding:8px 0px;
+	color:#424c06;
+	text-decoration:none;
+	font-size:12px;
+	text-transform:uppercase;	
+	background-image: url(../images/menu-separator.gif);
+	background-repeat: no-repeat;
+	background-position: 0px -15px;
+	font-weight:bold;
+}
+
+table#horiz_nav td .first{
+	background:none;
+	
+} 
+
+#horiz_nav .submenu{
+	background:none;
+}
+
+
+table#horiz_nav td.last a { border-right:0px; }
+
+table#horiz_nav td a:hover { color:#fff; }
+
+/* Horizontal navigation drop down menu
+
+   do not remove or modify styles listed 
+
+   under "Do Not Change" */
+
+table#horiz_nav ul {
+
+	/* Do not change  */
+
+	position:absolute;
+	left: -999em;
+	padding:0px;
+	margin:0px;
+	list-style-type:none;	
+
+	/* Styles */
+
+	background:#f4f8cb;
+	border-right:1px solid #eee;
+	text-align:left;
+	width:150px;
+
+}
+
+
+
+/* Do not change  */
+
+#horiz_nav td:hover ul { left: auto; 
+	border: 1px solid #bbc386;
+	/*border-bottom:0;*/
+}
+
+#horiz_nav td.sfhover ul { left: auto; 
+	border: 1px solid #bbc386;
+	/*border-bottom:0;*/
+}
+
+
+
+#horiz_nav ul li { /* submenu */
+
+	/* Do not change */
+
+	display:block;	
+	width:100%;
+	margin:0px;
+
+	
+
+	/* Styles */
+
+	line-height:22px;
+	background:#f4f8cb;
+	/*border-bottom: 1px solid #bbc386;*/
+	
+
+}
+
+
+
+table#horiz_nav ul li a { /* submenu links */
+
+	/* Do not change */
+
+	display:block;
+	background-image:none;
+	
+
+	/* Styles */
+
+	padding:5px 10px !important;
+	text-transform:none !important;
+	text-align:left;	
+	font:11px Arial;
+	font-weight:normal;
+	color:#424c06;
+
+}
+
+table#horiz_nav ul li a:hover{
+	color:#424c06;
+	background:#cfd799;
+}

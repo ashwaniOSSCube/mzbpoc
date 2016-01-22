@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Metrics
+END
+AbstractAnalyzer.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Metrics/AbstractAnalyzer.php
+END
+AnalyzerLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Metrics/AnalyzerLoader.php
+END
+ListenerI.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Metrics/ListenerI.php
+END
+AnalyzerI.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Metrics/AnalyzerI.php
+END
+FilterAwareI.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Metrics/FilterAwareI.php
+END
+NodeAwareI.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Metrics/NodeAwareI.php
+END
+ProjectAwareI.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Metrics/ProjectAwareI.php
+END
+AnalyzerClassLocator.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Metrics/AnalyzerClassLocator.php
+END
+AnalyzerIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Metrics/AnalyzerIterator.php
+END
+CacheAware.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Metrics/CacheAware.php
+END
+AnalyzerClassFileSystemLocator.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Metrics/AnalyzerClassFileSystemLocator.php
+END
+AggregateAnalyzerI.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Metrics/AggregateAnalyzerI.php
+END
+AbstractCachingAnalyzer.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Metrics/AbstractCachingAnalyzer.php
+END

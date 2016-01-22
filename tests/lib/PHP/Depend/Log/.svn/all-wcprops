@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Log
+END
+NoLogOutputException.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Log/NoLogOutputException.php
+END
+CodeAwareI.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Log/CodeAwareI.php
+END
+LoggerFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Log/LoggerFactory.php
+END
+FileAwareI.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Log/FileAwareI.php
+END
+LoggerI.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Log/LoggerI.php
+END

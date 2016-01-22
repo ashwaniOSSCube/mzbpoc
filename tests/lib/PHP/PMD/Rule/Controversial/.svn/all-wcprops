@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Controversial
+END
+CamelCaseMethodName.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Controversial/CamelCaseMethodName.php
+END
+CamelCaseParameterName.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Controversial/CamelCaseParameterName.php
+END
+Superglobals.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Controversial/Superglobals.php
+END
+CamelCasePropertyName.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Controversial/CamelCasePropertyName.php
+END
+CamelCaseClassName.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Controversial/CamelCaseClassName.php
+END
+CamelCaseVariableName.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Controversial/CamelCaseVariableName.php
+END

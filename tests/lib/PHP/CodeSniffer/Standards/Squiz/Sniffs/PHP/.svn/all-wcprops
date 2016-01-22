@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/PHP
+END
+InnerFunctionsSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/PHP/InnerFunctionsSniff.php
+END
+GlobalKeywordSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/PHP/GlobalKeywordSniff.php
+END
+DisallowSizeFunctionsInLoopsSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/PHP/DisallowSizeFunctionsInLoopsSniff.php
+END
+DisallowMultipleAssignmentsSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/PHP/DisallowMultipleAssignmentsSniff.php
+END
+HeredocSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/PHP/HeredocSniff.php
+END
+DiscouragedFunctionsSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/PHP/DiscouragedFunctionsSniff.php
+END
+LowercasePHPFunctionsSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/PHP/LowercasePHPFunctionsSniff.php
+END
+ForbiddenFunctionsSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/PHP/ForbiddenFunctionsSniff.php
+END
+NonExecutableCodeSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/PHP/NonExecutableCodeSniff.php
+END
+EvalSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/PHP/EvalSniff.php
+END
+DisallowObEndFlushSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/PHP/DisallowObEndFlushSniff.php
+END
+DisallowInlineIfSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/PHP/DisallowInlineIfSniff.php
+END
+CommentedOutCodeSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/PHP/CommentedOutCodeSniff.php
+END
+EmbeddedPhpSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/PHP/EmbeddedPhpSniff.php
+END
+DisallowComparisonAssignmentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/Squiz/Sniffs/PHP/DisallowComparisonAssignmentSniff.php
+END

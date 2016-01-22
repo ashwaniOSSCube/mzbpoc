@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- This code must remain in all header files -->
+    <base href="https://www.shopmzb.com/mzb_usa_com/store//" />
+    <!-- end -->
+	<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=iso-8859-1" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width" />
+	<title>Massimo Zanetti Beverage Online Store - Terms &amp; Conditions</title>
+	<meta name="description" content="This website, including any subsite accessible through the homepage (the 'Site'), is published and maintained by subsidiaries, affiliates, and/or rela" />
+	<meta name="keywords" content="" />
+	<link rel="stylesheet" type="text/css" media="all" href="stylesheets/contentslider.css" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/tabcontent700.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="templates/default-3cols/css/layout.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="templates/default-3cols/css/menu.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="templates/default-3cols/css/shop700.css" />
+	
+ <link href="templates/default-3cols/css/bootstrap.css" rel="stylesheet">
+	<link rel="stylesheet" href="templates/default-3cols/css/bootstrap.offcanvas.css"/> <!-- Only If Using OffCanvas Menu -->
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	<!--[if lt IE 9]>
+    <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->	<script language="javascript" type="text/javascript">
+	<!--
+	function clearfield(pform){
+	if (pform.keyword.value == "search this site")
+		pform.keyword.value = "";
+	}
+	-->
+	</script>
+	<script language="javascript" type="text/javascript">
+	<!--
+	function toggleMe(a){
+	  var e=document.getElementById(a);
+	  //if(!e)return true;
+	  if(e.style.display=="none"){
+		e.style.display="block"
+	  } else {
+		e.style.display="none"
+	  }
+	  //return true;
+	}
+	-->
+	</script>
+	<script language="javascript" type="text/javascript">
+	<!--
+	function checkjavascriptstatus(){
+	   var checkingurl="shopcheckjavascript.asp";
+	   var pars = '';
+	   var url = checkingurl + '?' + pars;
+	   new Ajax.Request(url, {method: 'post',
+					   onSuccess: function(transport) {
+					   }
+					   }); 
+	}
+	-->
+	</script>
+	<!--<noscript>not support</noscript>-->
+	<script src="js/1.11.2.jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+<script src="js/bootstrap.offcanvas.js"></script>
+	<script language="javascript" type="text/javascript" src="js/vs350.js"></script>
+	<script language="javascript" type="text/javascript" src="js/contentslider.js"></script>
+    <script language="javascript" type="text/javascript" src="js/tabcontent700.js"></script>
+    <script language="javascript" type="text/javascript" src="js/shopajaxsearch.js"></script>
+    <script language="javascript" type="text/javascript" src="shopcheckjavascript.asp"></script>
+    <!-- '701 - 2011.03.15 - Enhancement: Speed up store performance -->
+        <!-- Enhancement: To include TYNT -->
+    </head>
+<body>
+<div class="visible-xs-block">
+<nav class="navbar navbar-default navbar-fixed-top">
+<div style="text-align:center;">
+<div class="row"  style="height:90px;background-image:url(templates/default-3cols/images/logo-bg-main.jpg
+);background-size:cover;">
+<header class="clearfix">
+        
+<a href="default.asp"><!--<img src="images/American_Patio_logo_mobile.gif" style='padding-top:10px;'/> --></a>
+<div style='float:right;text-align:Center;padding-top:15px;font-size:30px;line-height:12px;padding-right:10px;line-height:12px;'>
+<a href='shopaddtocart.asp' style="color:#fff">
+<span class="glyphicon glyphicon glyphicon-shopping-cart" style="color:#fff" aria-hidden="true"></span><br><span style='font-size:11px;'>My Cart
+ 0
+</span></a></div>
+
+</div>
+<div style="clear:both;"></div>
+<div class="col-xs-2">
+<button type="button" class="navbar-toggle offcanvas-toggle" data-toggle="offcanvas" data-target="#js-bootstrap-offcanvas">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+</div>
+<div class="col-xs-10" style="padding-top:7px;">
+<form action="shopsearch.asp?search=Yes" method="post" class="form-inline">
+<div class="input-group">
+      <input type="text" class="form-control"  style='font-size:10px;'  required placeholder="Enter Search Term(s) Here">
+      <span class="input-group-btn">
+        <button class="btn btn-default" name="Action" type="submit">Search!</button>
+      </span>
+    </div>
+	</form>
+</div>
+
+
+        <nav class="navbar navbar-default navbar-offcanvas navbar-offcanvas-touch" role="navigation" id="js-bootstrap-offcanvas">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#">Massimo Zanetti Beverage Online Store</a>
+                </div>
+                <div>     
+					<ul class="nav navbar-nav" style='text-align:left;padding-left:4px;'>
+     				<li class="active"><a href="default.asp">Home</a></li>          
+                        <li class="dropdown"><a href='#' class='dropdown-toggle'>Chase &amp; Sanborn<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href='shopdisplaycategories.asp?id=8'>View All</a></li><li><a href="shopdisplayproducts.asp?id=50&amp;cat=Special+Roast">Special Roast</a></li><li><a href="shopdisplayproducts.asp?id=49&amp;cat=Decaffeinated">Decaffeinated</a></li><li><a href="shopdisplayproducts.asp?id=215&amp;cat=Merchandise">Merchandise</a></li></ul></li><li class="dropdown"><a href='#' class='dropdown-toggle'>Krispy Kreme Doughnuts Coffee<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href='shopdisplaycategories.asp?id=209'>View All</a></li><li><a href="shopdisplayproducts.asp?id=211&amp;cat=Smooth">Smooth</a></li><li><a href="shopdisplayproducts.asp?id=212&amp;cat=Rich">Rich</a></li><li><a href="shopdisplayproducts.asp?id=210&amp;cat=Decaffeinated">Decaffeinated</a></li></ul></li><li class="dropdown"><a href='#' class='dropdown-toggle'>Reveille Coffee<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href='shopdisplaycategories.asp?id=217'>View All</a></li><li><a href="shopdisplayproducts.asp?id=219&amp;cat=Regular+Roast">Regular Roast</a></li><li><a href="shopdisplayproducts.asp?id=218&amp;cat=Dark+Roast">Dark Roast</a></li><li><a href="shopdisplayproducts.asp?id=220&amp;cat=Decaf">Decaf</a></li></ul></li><li><a href="shopdisplayproducts.asp?id=2&amp;cat=Segafredo+Zanetti">Segafredo Zanetti</a></li>
+						<li><hr /></li>
+						<li><a href="http://www.shopmzb.com/chockfullonuts_com/Shop/default.asp">Chock full o'Nuts</a></li>
+      <li><a href="http://www.shopmzb.com/hillsbros_com/shop/">Hills Bros.</a></li>
+	  <li><a href="http://www.shopmzb.com/hillsbros_cap_com/Shop/">Hills Bros. Cappuccino</a></li>
+	  <li><a href="http://www.shopmzb.com/hillsbros_com/shop/shopdisplaycategories.asp?id=15">Hills Bros. Premium</a></li>
+	  <li><a href="http://www.shopmzb.com/mzb_usa_com/kauaistore/">Kauai Coffee</a></li>
+	  
+	  <li><a href="http://www.shopmzb.com/mjbcoffee_com/Shop/">MJB</a></li>
+	  <li><hr /></li>
+						<li><a href="shopcustadmin.asp">My Account</a></li>
+						<li><a href="shopcontent.asp?type=Aboutus">About Us</a> </li>
+						<li><a href="shopcontent.asp?type=FAQ">FAQs</a></li>
+						<li><a href="https://www.mzb-usa.com/contact/">Contact Us</a></li>
+						<li><a href="shopcontent.asp?type=shipping">Shipping & Returns</a></li>
+						<li><a href="shopcontent.asp?type=terms">Terms & Conditions</a></li>
+						<li><a href="shopcontent.asp?type=privacy">Privacy</a></li>
+                         
+                        
+						
+						 
+						  
+						   
+                           
+					</ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+ </div>
+ </nav>
+ <div style="height:120px;"></div>
+ </div>
+
+<div style="clear:both;"></div>
+	<div id="wrap page-content">
+	<div class="container">
+		<!-- BEGIN HEADER -->
+		<div id="header" class="container visible-lg-block visible-md-block visible-sm-block">
+			<div class="columns row" style="background-image:url(templates/default-3cols/images/logo-bg-main.jpg
+);">
+				<!-- LOGO DISPLAY AND LINK -->
+				<div class="col-xs-6">
+                <div id="vp_logo"><a title="MZB-USA Online Store" class="logo" href="default.asp"><img  src="images/logo-shim.gif" width="295" height="140" alt="MZB-USA Online Store" title="MZB-USA Online Store" /></a>
+</div>
+				</div>
+				<!-- WELCOME BOX  -->
+				<div class="col-xs-6">
+				<div id="vp_welcomeboxsquare"><table class="utility-box">
+<tr>
+<td valign="middle">
+<div class="utility-box-top"></div>
+<div class="utility-box-content">
+<div class="utility-row">
+<strong>
+Welcome, Guest</strong>
+<span style="float: right;"> 
+(
+<a href="shopaddtocart.asp
+"> View Cart </a> &nbsp;|&nbsp;
+
+<a href="shopcustadminlogin.asp">Login</a>
+) 
+</span>
+<div class="cb"></div>
+</div>
+</div>
+<div class="utility-box-bottom"></div>
+<form action="shopsearch.asp?search=Yes" method="get">
+<div align='right'><input name="keyword" type="text" id='keywordinputfld'> <input name="Search" type="submit" value="Search" id='searchbtn'>
+<br><a href="shopsearch.asp"><span id='adsearchlink'>Advanced Search</span></a></div>
+<input name='category' value='ALL' type='hidden'>
+</form>
+</td>
+</tr>
+</table>
+</div>
+				</div>
+				<!-- END WELCOME BOX -->
+			</div>
+		</div>
+		<!-- END HEADER -->
+		<!-- BEGIN CONTENT -->
+		<div id="content">            
+			<!-- content columns -->
+			<div class="columns-border">
+            <div class="columns">
+				<!-- side bar -->
+				<div class="col-lg-2 col-md-2 col-sm-2 visible-lg-block visible-md-block visible-sm-block">
+                <div id="vp_leftsidebox"><div class="side-bar">
+<div class="sidebarcell">
+<div id="side_categories_title_17" class="title">
+<h2>MZB Brands</h2>
+</div>
+<div class="contentcell">
+<ul class="menulist">
+
+<li>
+  <a href="shopdisplaycategories.asp?id=8&amp;cat=Chase+%26+Sanborn">Chase &amp; Sanborn...</a><div id="leftsideboxcatnavcid8" class="submenulist"><ul class="menulist"><li><a href="shopdisplayproducts.asp?id=50&amp;cat=Special+Roast">Special Roast</a></li><li><a href="shopdisplayproducts.asp?id=49&amp;cat=Decaffeinated">Decaffeinated</a></li><li><a href="shopdisplayproducts.asp?id=215&amp;cat=Merchandise">Merchandise</a></li></ul></div>
+</li>
+
+<li>
+  <a href="shopdisplaycategories.asp?id=209&amp;cat=Krispy+Kreme+Doughnuts+Coffee">Krispy Kreme Doughnuts Coffee...</a><div id="leftsideboxcatnavcid209" class="submenulist"><ul class="menulist"><li><a href="shopdisplayproducts.asp?id=211&amp;cat=Smooth">Smooth</a></li><li><a href="shopdisplayproducts.asp?id=212&amp;cat=Rich">Rich</a></li><li><a href="shopdisplayproducts.asp?id=210&amp;cat=Decaffeinated">Decaffeinated</a></li></ul></div>
+</li>
+
+<li>
+  <a href="shopdisplaycategories.asp?id=217&amp;cat=Reveille+Coffee">Reveille Coffee...</a><div id="leftsideboxcatnavcid217" class="submenulist"><ul class="menulist"><li><a href="shopdisplayproducts.asp?id=219&amp;cat=Regular+Roast">Regular Roast</a></li><li><a href="shopdisplayproducts.asp?id=218&amp;cat=Dark+Roast">Dark Roast</a></li><li><a href="shopdisplayproducts.asp?id=220&amp;cat=Decaf">Decaf</a></li></ul></div>
+</li>
+
+<li>
+  <a href="shopdisplayproducts.asp?id=2&amp;cat=Segafredo+Zanetti">Segafredo Zanetti</a>
+</li>
+
+</ul>
+<hr align="left" width="170" style="color:#9d1318;">
+<ul class="menulist">
+<li style='padding-bottom:10px;'><a href="http://shopmzb.com/chockfullonuts_com/Shop/default.asp">Chock full o'Nuts</a></li>
+<li style='padding-bottom:10px;'><a href="http://shopmzb.com/hillsbros_com/shop/">Hills Bros.</a></li>
+<li style='padding-bottom:10px;'><a href="http://shopmzb.com/hillsbros_cap_com/Shop/">Hills Bros. Cappuccino</a></li>
+<li style='padding-bottom:10px;'><a href="http://shopmzb.com/hillsbros_com/shop/shopdisplaycategories.asp?id=15">Hills Bros. Premium</a></li>
+<li style='padding-bottom:10px;'><a href="http://shopmzb.com/mzb_usa_com/kauaistore/">Kauai Coffee</a></li>
+<li style='padding-bottom:10px;'><a href="http://shopmzb.com/mjbcoffee_com/Shop/">MJB</a></li>
+
+</ul>
+</div>
+</div>
+<div class="sidebarcell">
+<div id="side_freetext_title_204" class="title">
+<h2>Information</h2>
+</div>
+<div class="contentcell">
+<div class="sidefreetext" ><a href="default.asp">Home</a><br />
+<a href="shopcustadmin.asp">My Account</a><br />
+<a href="shopcontent.asp?type=Aboutus">About Us</a><br />
+<a href="shopcontent.asp?type=FAQ">FAQs</a><br />
+<a href="shopcustcontact.asp">Contact Us</a><br />
+<a href="shopcontent.asp?type=shipping">Shipping & Returns</a><br />
+<a href="shopcontent.asp?type=terms">Terms & Conditions</a><br />
+<a href="shopcontent.asp?type=privacy">Privacy </a>
+</div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+				</div>
+				<!-- main content -->
+				<div class="col-lg-8 col-md-8 col-sm-10 col-xs-12">
+				<div id="main" class="container-fluid">
+				<!-- END SHOPPAGE_HEADER.HTM --><div class="breadcrumb"><a href="default.asp"> Home </a>&nbsp;:&nbsp;Terms &amp; Conditions</div>
+<h1>Terms &amp; Conditions</h1>
+<div id="contentpage">
+			<span style="font-family: Arial; font-size: 10pt;">This website, including any subsite accessible through the homepage (the "Site"), is published and maintained by subsidiaries, affiliates, and/or related entities of Massimo Zanetti Beverage Group. Please note that when you enter any subsite accessible through this homepage or the shopping page, such subsite may have its own terms and conditions of use which are specific to such subsite. When you access, browse, or use this Site you accept, without limitation or qualification, the terms and conditions set forth below and any additional terms and conditions of use set forth in any subsite.<br />
+	<br />
+	<span style="font-weight: bold;">Your Right to Use the Site and Its Contents</span><br />
+	This Site is only for your personal use. You may not distribute, exchange, modify, sell, or transmit anything you copy from this Site, including but not limited to any text, images, audio, and video, for any business, commercial, or public purpose. As long as you comply with the terms of these Terms and Conditions of Use, Massimo Zanetti Beverage Group grants you a non-exclusive, non-transferable, limited right to enter, display, and use this Site. You agree not to interrupt or attempt to interrupt the operation of this Site in any way.<br />
+	<br />
+	<span style="font-weight: bold;">Ownership</span><br />
+	All materials on this Site, including but not limited to audio, images, software, text, and video clips (the "Content"), are protected by copyright under U.S. copyright law, international conventions, and other copyright laws. You cannot use the Content, except as specified herein. You agree to follow all instructions on this Site limiting the way you may use the Content. There are a number of proprietary logos, service marks, and trademarks found on this Site. By making them available on this Site, Massimo Zanetti Beverage Group is not granting you any license to utilize those proprietary logos, service marks, or trademarks. Any unauthorized use of the Content may violate copyright laws, trademark laws, the laws of privacy and publicity, and civil and criminal statutes.<br />
+	<br />
+	You may download one (1) copy only of the Content to be used only by you for your personal use at home, unless the subsite you are accessing states that you may not. If you download any Content from this Site, you may not remove any copyright or trademark notices or other notices that go with it.<br />
+	<br />
+	<span style="font-weight: bold;">Rules for Chatrooms, Bulletin Boards, and Other User-Supplied Material</span><br />
+	This website may have an area which allows you to "chat" or upload and download materials. When using any of these areas, you agree not to post, send, transmit, upload, or otherwise publish through this Site, any materials that (1) interfere with anyone else's use of the Site; (2) are abusive, illegal, indecent, obscene, offensive, or threatening in any way; (3) encourage anyone to break the law; (4) violate anyone's copyright or other property right; (5) interfere with the privacy of any other user; (6) contain a virus or any other harmful component; or (7) contain false or misleading statements of fact or descriptions of the origin of the material or the communication. You agree to comply with any additional terms which are referred to on this Site or any subsite within the website.<br />
+	<br />
+	<span style="font-weight: bold;">Responsibility for User's Material</span><br />
+	You are prohibited from posting or transmitting any defamatory, libelous, obscene, pornographic, profane, threatening, or unlawful material or any material that could constitute or encourage conduct that would be considered a criminal offense or give rise to civil liability, or otherwise violate any law. Although Massimo Zanetti Beverage Group may from time to time monitor or review bulletin boards, chatrooms, discussions, postings, transmissions, and the like on the Site, Massimo Zanetti Beverage Group is under no obligation to do so and assumes no liability or responsibility arising from the contents of any such communications or for any defamation, error, inaccuracy, libel, obscenity, or profanity contained in any such communication. Massimo Zanetti Beverage Group may change, edit, or remove any user material or conversations that are illegal, indecent, obscene, or offensive, or that violate Massimo Zanetti Beverage Group's policies in any way. Massimo Zanetti Beverage Group will fully cooperate with any law enforcement authorities or court order requesting or directing Massimo Zanetti Beverage Group to disclose the identity of anyone posting such materials.<br />
+	<br />
+	<span style="font-weight: bold;">Massimo Zanetti Beverage Group's Rights to User's Material</span><br />
+	If you send any communications or materials to the Site by electronic mail or otherwise, including any comments, data, questions, suggestions, or the like, all such communications are, and will be treated as, non-confidential and non-proprietary. Thus, you give up any claim that any use of such material violates any of your rights including moral rights, privacy rights, proprietary or other property rights, publicity rights, rights to credit for material or ideas, or any other right, including the right to approve the way Massimo Zanetti Beverage Group uses such material.<br />
+	<br />
+	Any material submitted to this Site may be adapted, broadcast, changed, copied, disclosed, licensed, performed, posted, published, sold, transmitted, or used by Massimo Zanetti Beverage Group anywhere in the world, in any medium, forever. Furthermore, Massimo Zanetti Beverage Group is free to use, without any compensation to you, any concepts, ideas, know-how, or techniques contained in any communication you send to the Site for any purpose whatsoever, including but not limited to developing, manufacturing, and marketing products using such information. However, you agree and understand that Massimo Zanetti Beverage Group is not obligated to use any such ideas or materials, and you have no rights to compel such use.<br />
+	<br />
+	<span style="font-weight: bold;">Transmitted Material</span><br />
+	Internet transmissions are never completely private or secure. You understand that any message or information you send to this Site may be read or intercepted by others, unless there is a special notice that a particular message (for example, credit card information) is encrypted (sent in code). Sending a message to Massimo Zanetti Beverage Group does not cause Massimo Zanetti Beverage Group to have any special responsibility to you.<br />
+	<br />
+	<span style="font-weight: bold;">Links</span><br />
+	This website may contain links to other Internet sites on the World Wide Web. Massimo Zanetti Beverage Group provides such links for your convenience only, and is not responsible for the content of any website linked to or from this Site. Links from this Site to any other website do not mean that Massimo Zanetti Beverage Group approves of, endorses, or recommends that website. Massimo Zanetti Beverage Group disclaims all warranties, express or implied, as to the accuracy, legality, reliability, or validity of any content on any other website.<br />
+	<br />
+	<span style="font-weight: bold;">Contests</span><br />
+	This Site may contain contests that offer prizes or that require you to send in material or information about yourself. Each contest has its own rules, which you must read and agree to before you may enter.<br />
+	<br />
+	<span style="font-weight: bold;">Rules for Kids (Under Age 16)</span><br />
+	If you are under 16, you should ask your parents or a guardian before you:<br />
+	<br />
+	</span>
+<ul><span style="font-family: Arial; font-size: 10pt;"></span>
+	<li><span style="font-family: Arial; font-size: 10pt;">E-mail the Site, or ask us to e-mail anything to you</span></li><span style="font-family: Arial; font-size: 10pt;"></span>
+	<li><span style="font-family: Arial; font-size: 10pt;">Send in any information</span></li><span style="font-family: Arial; font-size: 10pt;"></span>
+	<li><span style="font-family: Arial; font-size: 10pt;">Enter any contest or game that requires information about you or offers a prize</span></li><span style="font-family: Arial; font-size: 10pt;"></span>
+	<li><span style="font-family: Arial; font-size: 10pt;">Join any club or group</span></li><span style="font-family: Arial; font-size: 10pt;"></span>
+	<li><span style="font-family: Arial; font-size: 10pt;">Post any information on any bulletin board or enter any chatroom or</span></li><span style="font-family: Arial; font-size: 10pt;"></span>
+	<li><span style="font-family: Arial; font-size: 10pt;">Buy anything online</span></li><span style="font-family: Arial; font-size: 10pt;"></span>
+</ul><br />
+<span style="font-family: Arial; font-size: 10pt;"><span style="font-weight: bold;">Availability of Products and Services</span><br />
+	The products and services displayed on the Site may not be available for purchase in your particular country or locality. The reference to such products and services on the Site does not imply or warrant that these products or services will be available at any time in your particular location. You should check with your local Massimo Zanetti Beverage Group authorized representative for the availability of specific products and services in your area.<br />
+	<br />
+	<span style="font-weight: bold;">Right to Change These Terms and Conditions of Use or Content on the Site</span><br />
+	Massimo Zanetti Beverage Group may add to, change, or remove any part of these Terms and Conditions of Use at any time, without notice. Any changes to these Terms and Conditions of Use or any terms posted on this Site apply as soon as they are posted. By continuing to use this Site after any changes are posted, you are indicating your acceptance of those changes. Massimo Zanetti Beverage Group may add, change, discontinue, remove, or suspend any other Content posted on this Site, including features and specifications of products described or depicted on the Site, temporarily or permanently, at any time, without notice and without liability.<br />
+	<br />
+	<span style="font-weight: bold;">Indemnification</span><br />
+	You agree to indemnify, defend, and hold Massimo Zanetti Beverage Group and all of its agents, directors, employees, information providers, licensors and licensees, officers, and parent (collectively, "Indemnified Parties"), harmless from and against any and all liability and costs (including, without limitation, attorneys' fees and costs), incurred by the Indemnified Parties in connection with any claim arising out of any breach by you of these Terms and Conditions of Use or the foregoing representations, warranties, and covenants. You will cooperate as fully as reasonably required in Massimo Zanetti Beverage Group's defense of any claim. Massimo Zanetti Beverage Group reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you and you shall not in any event settle any matter without the written consent of Massimo Zanetti Beverage Group.</span><br />
+
+</div>
+				<!-- START SHOPPAGE_TRAILER.HTM -->
+								</div>
+				</div> 
+                <div class="col-lg-2 col-md-2 visible-lg-block visible-md-block">
+                	<div id="vp_rightsidebox"><div class="rightside-bar">
+<div class="sidefreetextnobox 352ft" ><div id="free-shipping"> Spend $100 or More on <br>
+  Products and Receive<br>
+  <span class="free">Free Shipping</span><br>
+  <img src="/mzb_usa_com/store/images/freeShippingBox.jpg" border="0"><br>
+  <span class="disclaimer">*excluding shipments to <br>
+  HI, AK, & Canada.</span> </div>
+
+</div>
+<div class="sidefreetextnobox 301ft" ><br /><br /><!-- BoldChat Live Chat Button HTML v4.00 (Type=Web,ChatButton=MZB Chat Button,Website=MZB) -->
+<div style="text-align: center; white-space: nowrap;"> <a href="https://livechat.boldchat.com/aid/697672610211716982/bc.chat?resize=true&cbdid=3586444453971015714&wdid=2806526051958288638" target="_blank" onclick="window.open((window.pageViewer && pageViewer.link || function(link){return link;})(this.href + (this.href.indexOf('?')>=0 ? '&' : '?') + 'url=' + escape(document.location.href)), 'Chat3412718178011852680', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;">
+  <div id="support"><script language="JavaScript" type="text/javascript"> var bccbId = Math.random(); document.write(unescape('<img alt="Live chat by BoldChat" src="https://www.shopmzb.com/mzb_usa_com/store/images/supportButton.png" id=' + bccbId + ' />')); var bccb = {id: bccbId, bdid: '3586444453971015714', rdid: null, type: 'chat'}; var _bcvma = _bcvma || []; if(window.pageViewer && pageViewer.addButton) pageViewer.addButton(button); else _bcvma.push(['addButton', bccb]);</script></div>
+  </a> </div>
+<!-- /BoldChat Live Chat Button HTML v4.00 --> </br>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+			</div>
+            <div class="clear"></div>
+            </div>
+		</div>
+		</div>
+		<!-- footer -->
+		<div id="footer">
+            <div id="vp_footer"><table cellpadding="0" cellspacing="0" width="100%" class="footertable">
+<tr>
+<td class="tdleft">&nbsp;</td>
+<td class="tdcenter">
+</td>
+<td class="tdright">&nbsp;</td>
+</tr>
+</table>
+<div class="bottom-row">
+</div>
+</div>
+		</div>
+	</div>
+	</div>
+	
+<script type="text/javascript">
+<!--
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-1243241-64', 'auto', {'allowLinker': true});
+	ga('require', 'linker');
+	ga('linker:autoLink', ['hillsbros.com', 'chockfullonuts.com', 'mjbcoffee.com', 'hillsbroscappuccino.com']);
+	ga('require', 'linkid', 'linkid.js');
+	ga('send', 'pageview');
+	
+-->
+</script>
+
+<script language="javascript" type="text/javascript">
+<!--
+/*
+Rewrite #anchor links for pages with BASE HREF 
+*/
+var anchors = document.getElementsByTagName("a");
+var basehref = document.getElementsByTagName("base")[0].href;
+var url = window.location.href;
+if(url.indexOf("#") > 0) url = url.substr(0, url.indexOf("#"));
+if(basehref) {
+   for(var i = 0; i < anchors.length; i++) {
+      var anchor = anchors[i];
+      poundPos = anchor.href.indexOf("/#");
+      if (poundPos > 0) {
+         anchor.href = url + anchor.href.substr(poundPos + 1);
+      }
+   }
+}
+-->
+</script>
+</body>
+</html>

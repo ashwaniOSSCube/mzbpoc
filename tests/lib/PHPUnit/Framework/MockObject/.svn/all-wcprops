@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject
+END
+Invocation.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Invocation.php
+END
+InvocationMocker.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/InvocationMocker.php
+END
+Invokable.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Invokable.php
+END
+Autoload.php.in
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Autoload.php.in
+END
+Stub.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Stub.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Exception.php
+END
+MockBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/MockBuilder.php
+END
+MockObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/MockObject.php
+END
+Matcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Matcher.php
+END
+Generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Generator.php
+END
+Verifiable.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Verifiable.php
+END
+Autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/MockObject/Autoload.php
+END

@@ -1,0 +1,16 @@
+hallo das ist eine nachricht fÃ¼r die besteller email.contact-data
+Firstname Thomas Lastname Ballmann E-Mail thomas.ballmann@elements.at
+email.cart cart Productnamecheckout.cart.productno Price Quantity Total
+Arium 1articleno: 9153 99.95 1 99.95 Barrow 60articleno: 10494 69.95 5
+349.75 Enduro Ultralightarticleno: 7261 99.95 1 99.95 Subtotal Â£549.65
+shop.cart.modificationshipping Â£0.00 shop.cart.modificationtest2
+-Â£54.97 Grandtotal Â£494.68 checkout.order-information
+checkout.delivery-address Thomas Ballmann schallmooser hauptstraÃe 5020
+Salzburg Austria checkout.your-ordernumber ord_51fb8ab73d1e9
+checkout.order-comment © 2013 elements.at New Media Solutions GmbH,
+www.pimcore.org
+  
+Debug Information:  
+  
+To: thomas.ballmann@elements.at
+Cc: thomas.ballmann@elements.at

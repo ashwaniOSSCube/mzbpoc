@@ -1,0 +1,16 @@
+Dear Customer, thank you for your order. Please bare in mind, that this is
+a demo system so no actual order has been created.  Contact Data Firstname
+christian Lastname fasching E-Mail christian.fasching@elements.at Cart cart
+ProductnameProductnumber Price Quantity Total Chicago Stability
+Womenarticleno: 2168 811.35 1 811.35 Elexir III Womenarticleno: 2110 628.78
+1 628.78 OZ Pro Womenarticleno: 2198 60.69 1 60.69 Subtotal Â£1,500.82
+shop.cart.modificationshipping Â£55.90
+shop.cart.modificationcart-discount -Â£150.08 Grandtotal Â£1,406.64
+Order Information Delivery address Thomas Ballmann Heideweg 83395
+Freilassing Germany Your Ordernumber ord_5251498084202 © 2013 pimcore
+GmbH, www.pimcore.org
+  
+Debug Information:  
+  
+To: christian.fasching@elements.at
+Cc: thomas.ballmann@elements.at

@@ -1,0 +1,14 @@
+hallo das ist eine nachricht fÃ¼r die besteller email.contact-data
+Firstname Thomas Lastname Ballmann E-Mail thomas.ballmann@elements.at
+email.cart cart Productnamecheckout.cart.productno Price Quantity Total
+Paragon Jrarticleno: 10614 24.95 1 24.95 Subtotal Â£24.95
+shop.cart.modificationshipping Â£55.90 Grandtotal Â£80.85
+checkout.order-information checkout.delivery-address Thomas Ballmann
+schallmooser hauptstraÃe 5020 Salzburg Austria checkout.your-ordernumber
+ord_51fb92a280144 checkout.order-comment © 2013 elements.at New Media
+Solutions GmbH, www.pimcore.org
+  
+Debug Information:  
+  
+To: thomas.ballmann@elements.at
+Cc: thomas.ballmann@elements.at

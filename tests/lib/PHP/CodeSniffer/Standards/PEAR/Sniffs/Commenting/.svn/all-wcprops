@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/PEAR/Sniffs/Commenting
+END
+ClassCommentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/PEAR/Sniffs/Commenting/ClassCommentSniff.php
+END
+FunctionCommentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/PEAR/Sniffs/Commenting/FunctionCommentSniff.php
+END
+InlineCommentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/PEAR/Sniffs/Commenting/InlineCommentSniff.php
+END
+FileCommentSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/PEAR/Sniffs/Commenting/FileCommentSniff.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Extensions
+END
+RepeatedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Extensions/RepeatedTest.php
+END
+TicketListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Extensions/TicketListener.php
+END
+TestDecorator.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Extensions/TestDecorator.php
+END
+PhptTestSuite.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Extensions/PhptTestSuite.php
+END
+GroupTestSuite.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Extensions/GroupTestSuite.php
+END
+PhptTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Extensions/PhptTestCase.php
+END

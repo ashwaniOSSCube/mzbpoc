@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule
+END
+IInterfaceAware.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/IInterfaceAware.php
+END
+IMethodAware.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/IMethodAware.php
+END
+IClassAware.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/IClassAware.php
+END
+IFunctionAware.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/IFunctionAware.php
+END
+UnusedPrivateMethod.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/UnusedPrivateMethod.php
+END
+UnusedPrivateField.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/UnusedPrivateField.php
+END
+AbstractLocalVariable.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/AbstractLocalVariable.php
+END
+UnusedLocalVariable.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/UnusedLocalVariable.php
+END
+CyclomaticComplexity.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/CyclomaticComplexity.php
+END
+UnusedFormalParameter.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/UnusedFormalParameter.php
+END
+ExcessivePublicCount.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/ExcessivePublicCount.php
+END

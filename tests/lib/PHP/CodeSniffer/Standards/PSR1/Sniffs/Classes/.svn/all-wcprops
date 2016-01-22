@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/PSR1/Sniffs/Classes
+END
+ClassDeclarationSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/PSR1/Sniffs/Classes/ClassDeclarationSniff.php
+END

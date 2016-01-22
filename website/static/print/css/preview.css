@@ -1,0 +1,14 @@
+
+body, html {
+    height: auto !important;
+}
+
+.pimcore_area_content.chapter {
+    margin: 0;
+}
+
+.pagebreak-force-page-break {
+    border-bottom: 1px solid black;
+    page-break-after: always;
+    height: 10px;
+}

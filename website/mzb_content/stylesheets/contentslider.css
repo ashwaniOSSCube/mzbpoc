@@ -1,0 +1,73 @@
+.sliderwrapper{
+position: relative; /*leave as is*/
+overflow: hidden; /*leave as is*/
+border: 0px solid navy;
+border-bottom-width: 0px;
+width: 170px; /*width of featured content slider*/
+/*height: 250px;*/
+height:200px;
+margin-left:auto;
+margin-right:auto;
+}
+
+.sliderwrapper .contentdiv{
+visibility: hidden; /*leave as is*/
+position: absolute; /*leave as is*/
+left: 0;  /*leave as is*/
+top: 0;  /*leave as is*/
+padding: 5px;
+background: none;
+width: 158px; /*width of content DIVs within slider. Total width should equal slider's inner width (390+5+5=400) */
+height: 95%;
+border:0px solid #d6d6d6;
+}
+
+.pagination{
+/*width: 170px; Width of pagination DIV. Total width should equal slider's outer width (400+10+10=420)*/
+/*text-align: right;*/
+text-align:center;
+width:52px;
+padding: 0px 0px;
+margin-left:auto;
+margin-right:auto;
+padding-bottom: 20px;
+}
+.pagination a{
+padding: 0 0px;
+text-decoration: none; 
+color: #00007D;
+background: white;
+margin-top:2px;
+}
+
+.pagination a:hover, .pagination a.selected{
+color: #000;
+background-color: #FEE496;
+}
+
+a.prev{
+border:1px solid #d6d6d6;
+/*padding:3px;*/
+display:block;
+/*width:15px;*/
+width:23px;
+height:22px;
+text-align:center;
+float:right;
+margin-right:2px;
+margin-bottom:10px;
+background-image:url(../images/NavArrowLeft.png);
+}
+
+a.next{
+border:1px solid #d6d6d6;
+/*padding:3px;
+width:15px;*/
+width:23px;
+height:22px;
+display:block;
+text-align:center;
+float:right;
+margin-bottom:10px;
+background-image:url(../images/NavArrowRight.png);
+}

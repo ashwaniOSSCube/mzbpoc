@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Builder
+END
+Context.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Builder/Context.php
+END
+Default.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/Builder/Default.php
+END

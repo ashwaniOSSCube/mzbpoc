@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/pimcore/!svn/ver/2741/private/core/trunk/tests
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/pimcore/!svn/ver/2717/private/core/trunk/tests/AllTests.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/pimcore/!svn/ver/2459/private/core/trunk/tests/bootstrap.php
+END
+phpunit
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/phpunit
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/pimcore/!svn/ver/2398/private/core/trunk/tests/test.sh
+END

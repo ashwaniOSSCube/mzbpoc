@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/pimcore/!svn/ver/2497/private/core/trunk/tests/lib/Test
+END
+Data.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/Test/Data.php
+END
+Base.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/Test/Base.php
+END
+RestClient.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/pimcore/!svn/ver/2460/private/core/trunk/tests/lib/Test/RestClient.php
+END
+Tool.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/pimcore/!svn/ver/2497/private/core/trunk/tests/lib/Test/Tool.php
+END
+SuiteBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/Test/SuiteBase.php
+END

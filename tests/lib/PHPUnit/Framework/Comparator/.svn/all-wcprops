@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/Comparator
+END
+Double.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/Comparator/Double.php
+END
+SplObjectStorage.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/Comparator/SplObjectStorage.php
+END
+Array.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/Comparator/Array.php
+END
+DOMDocument.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/Comparator/DOMDocument.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/Comparator/Exception.php
+END
+MockObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/Comparator/MockObject.php
+END
+Type.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/Comparator/Type.php
+END
+Numeric.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/Comparator/Numeric.php
+END
+Scalar.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/Comparator/Scalar.php
+END
+Object.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/Comparator/Object.php
+END
+Resource.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHPUnit/Framework/Comparator/Resource.php
+END

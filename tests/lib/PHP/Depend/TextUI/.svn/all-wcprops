@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/TextUI
+END
+Runner.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/TextUI/Runner.php
+END
+Command.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/TextUI/Command.php
+END
+ResultPrinter.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/Depend/TextUI/ResultPrinter.php
+END

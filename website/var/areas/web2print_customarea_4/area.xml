@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<zend-config xmlns:zf="http://framework.zend.com/xml/zend-config-xml/1.0/">
+    <id>web2print_customarea_4</id>
+    <name>mycustomarea</name>
+    <description>...</description>
+    <author>Elements.at New Media Solutions</author>
+    <classId>12</classId>
+</zend-config>

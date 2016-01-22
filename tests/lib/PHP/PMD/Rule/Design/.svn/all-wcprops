@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Design
+END
+ExitExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Design/ExitExpression.php
+END
+TooManyMethods.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Design/TooManyMethods.php
+END
+WeightedMethodCount.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Design/WeightedMethodCount.php
+END
+LongParameterList.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Design/LongParameterList.php
+END
+GotoStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Design/GotoStatement.php
+END
+TooManyFields.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Design/TooManyFields.php
+END
+LongMethod.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Design/LongMethod.php
+END
+DepthOfInheritance.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Design/DepthOfInheritance.php
+END
+CouplingBetweenObjects.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Design/CouplingBetweenObjects.php
+END
+LongClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Design/LongClass.php
+END
+NumberOfChildren.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Design/NumberOfChildren.php
+END
+EvalExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Design/EvalExpression.php
+END
+NpathComplexity.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/PMD/Rule/Design/NpathComplexity.php
+END

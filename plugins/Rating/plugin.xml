@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<zend-config xmlns:zf="http://framework.zend.com/xml/zend-config-xml/1.0/">
+    <plugin>
+        <!-- This must be equal to the folder name!-->
+        <pluginName>Rating</pluginName>
+        <!-- nice name to display in pimcore -->
+        <pluginNiceName>Rating</pluginNiceName>
+        <!-- 64x64px plugin icon-->
+        <pluginIcon>/plugins/Rating/static/img/rating-logo.png</pluginIcon>
+        <pluginDescription>
+            <![CDATA[Allows rating on assets, documents, and objects optionally connected to a user</a>]]></pluginDescription>
+        <!-- Plugin Server URL -->
+        <pluginServer>plugins.pimcore.org</pluginServer>
+        <!-- Version and Revision are updated by createRevision Script !-->
+        <pluginVersion>1.0.1</pluginVersion>
+        <pluginRevision>23</pluginRevision>
+        <pluginBuildTimestamp>1300977894</pluginBuildTimestamp>
+        <pluginIframeSrc></pluginIframeSrc>
+        <!-- className of the plugin which extends Pimcore_API_Plugin_Abstract-->
+        <pluginClassName>Rating_Plugin</pluginClassName>
+        <!-- include paths relative to plugin-directory -->
+        <pluginIncludePaths>
+            <path>/Rating/lib</path>
+            <path>/Rating/models</path>
+        </pluginIncludePaths>
+        <!-- namespaces to register with autoloader-->
+        <pluginNamespaces>
+            <namespace>Rating</namespace>
+            <namespace>Resource</namespace>
+        </pluginNamespaces>
+        <!-- js files with path relative to plugin-directory -->
+        <pluginJsPaths>
+            <path>/Rating/static/js/ratingplugin.js</path>
+        </pluginJsPaths>
+        <!-- css files with path relative to plugin-directory -->
+        <pluginCssPaths>
+            <path>/Rating/static/css/admin.css</path>
+        </pluginCssPaths>
+    </plugin>
+</zend-config>

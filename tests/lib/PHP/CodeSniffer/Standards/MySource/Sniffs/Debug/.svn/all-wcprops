@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/MySource/Sniffs/Debug
+END
+FirebugConsoleSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/MySource/Sniffs/Debug/FirebugConsoleSniff.php
+END
+DebugCodeSniff.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/pimcore/!svn/ver/2397/private/core/trunk/tests/lib/PHP/CodeSniffer/Standards/MySource/Sniffs/Debug/DebugCodeSniff.php
+END
